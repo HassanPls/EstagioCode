@@ -1,0 +1,27 @@
+[
+  {
+    "nome": "Santander",
+    "engine": "workday",
+    "url_api": "https://santander.wd3.myworkdayjobs.com/wday/cxs/santander/SantanderCareers/jobs",
+    "config_extra": {
+      "base_url_vagas": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers",
+      "appliedFacets": {
+        "locationCountry": ["1a29bb1357b240ab99a2fa755cc87c0e"]
+      }
+    }
+  },
+  {
+    "nome": "Nubank",
+    "engine": "greenhouse",
+    "url_api": "https://boards-api.greenhouse.io/v1/boards/nubank/jobs",
+    "config_extra": {}
+  },
+  {
+    "nome": "Itaú",
+    "engine": "talentbrew",
+    "url_api": "https://carreiras.itau.com.br/busca-de-vagas/estagio",
+    "config_extra": {
+      "base_url": "https://carreiras.itau.com.br"
+    }
+  }
+]
