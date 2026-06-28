@@ -1,5 +1,7 @@
 import json
+import os
 from datetime import datetime
+import requests
 from engines import MAPA_ENGINES
 
 def carregar_configuracoes():
@@ -7,7 +9,6 @@ def carregar_configuracoes():
         return json.load(f)
 
 def salvar_relatorio_markdown(resultados):
-    """Gera o arquivo RESULT.md estruturado com as vagas coletadas"""
     data_atual = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
     
     linhas = []
@@ -34,6 +35,53 @@ def salvar_relatorio_markdown(resultados):
     with open('RESULT.md', 'w', encoding='utf-8') as f:
         f.write("\n".join(linhas))
     print("💾 Arquivo RESULT.md atualizado com sucesso.")
+
+def enviar_notificacao_discord(resultados):
+    webhook_url = os.environ.get("DISCORD_WEBHOOK_URL")
+    
+    if not webhook_url:
+        print("⚠️ DISCORD_WEBHOOK_URL não configurada no ambiente. Pulando notificação.")
+        return
+
+    data_atual = datetime.now().strftime("%d/%m/%Y %H:%M")
+    total_vagas = sum(len(vagas) for vagas in resultados.values())
+    
+    embed = {
+        "title": "📋 Novo Relatório de Vagas de Estágio",
+        "description": f"Varredura concluída com sucesso em {data_atual}.\nTotal de oportunidades encontradas: **{total_vagas}**",
+        "color": 3447003,  
+        "fields": []
+    }
+    
+    for empresa, vagas in resultados.items():
+        if vagas:
+            texto_vagas = ""
+            for v in vagas[:5]:  
+                texto_vagas += f"• [{v['titulo']}]({v['link']}) - {v['local']}\n"
+            
+            if len(vagas) > 5:
+                texto_vagas += f"*...e mais {len(vagas) - 5} vagas listadas no RESULT.md*"
+        else:
+            texto_vagas = "*Nenhuma vaga encontrada.*"
+            
+        embed["fields"].append({
+            "name": empresa.upper(),
+            "value": texto_vagas,
+            "inline": False
+        })
+
+    payload = {
+        "embeds": [embed]
+    }
+    
+    try:
+        response = requests.post(webhook_url, json=payload)
+        if response.status_code == 204:
+            print("🚀 Notificação enviada com sucesso para o Discord!")
+        else:
+            print(f"❌ Erro ao enviar para o Discord: Código {response.status_code}")
+    except Exception as e:
+        print(f"❌ Falha de rede ao conectar com o Discord: {e}")
 
 def executar_busca_vagas(termo="estágio"):
     empresas = carregar_configuracoes()
@@ -62,3 +110,4 @@ def executar_busca_vagas(termo="estágio"):
 if __name__ == "__main__":
     resultados = executar_busca_vagas("estágio")
     salvar_relatorio_markdown(resultados)
+    enviar_notificacao_discord(resultados)

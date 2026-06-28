@@ -31,6 +31,8 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
     - name: Executar Rotina de Coleta
+      env:
+        DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
       run: python src/main.py
 
     - name: Persistir Alteracoes no Repositorio
