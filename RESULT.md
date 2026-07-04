@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 28/06/2026 03:59:58 (Horário Local)
+**Última Atualização:** 04/07/2026 13:59:17 (Horário Local)
 
-**Total de vagas encontradas:** 5
+**Total de vagas encontradas:** 7
 
 ---
 
@@ -24,16 +24,26 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ## ITAÚ
 * **Cargo:** Banco de Talentos - Estágio Corporativo Itaú
-  * Local: São Paulo, São Paulo
-  * Link: [Inscrição Direta](https://carreiras.itau.com.br/vaga/sao-paulo/banco-de-talentos-estagio-corporativo-itau/35299/84428052784)
-* **Cargo:** Estágio Comercial - Rede de Agências | Vagas em todo o Brasil 🤝🏽🚀
-  * Local: São Paulo, São Paulo
-  * Link: [Inscrição Direta](https://carreiras.itau.com.br/vaga/sao-paulo/estagio-comercial-rede-de-agencias-vagas-em-todo-o-brasil/35299/56974144144)
+  * Local: São Paulo - São Paulo
+  * Link: [Inscrição Direta](https://vemproitau.gupy.io/job/eyJqb2JJZCI6OTU1OTQ5MCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
 * **Cargo:** ESTÁGIO CORPORATIVO ATACADO | ITAÚ UNIBANCO
-  * Local: São Paulo, São Paulo
-  * Link: [Inscrição Direta](https://carreiras.itau.com.br/vaga/sao-paulo/estagio-corporativo-atacado-itau-unibanco/35299/86807635872)
+  * Local: São Paulo - São Paulo
+  * Link: [Inscrição Direta](https://vemproitau.gupy.io/job/eyJqb2JJZCI6ODY2NDg5OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
 * **Cargo:** Estágio Comercial REDE | Itaú Unibanco - VAGAS PARA TODO O BRASIL
-  * Local: São Paulo, São Paulo
-  * Link: [Inscrição Direta](https://carreiras.itau.com.br/vaga/sao-paulo/estagio-comercial-rede-itau-unibanco-vagas-para-todo-o-brasil/35299/58906584704)
+  * Local: São Paulo - São Paulo
+  * Link: [Inscrição Direta](https://vemproitau.gupy.io/job/eyJqb2JJZCI6NjQ0NzcxMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+* **Cargo:** Estágio Comercial - Rede de Agências | Vagas em todo o Brasil 🤝🏽🚀
+  * Local: São Paulo - São Paulo
+  * Link: [Inscrição Direta](https://vemproitau.gupy.io/job/eyJqb2JJZCI6NTA4ODcwMCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+
+------------------------------
+
+## MONKS
+* **Cargo:** [Monks] Estágio em Mídias de Performance  
+  * Local: Brasil
+  * Link: [Inscrição Direta](https://brmonks.gupy.io/job/eyJqb2JJZCI6MTE0MjU4NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
+* **Cargo:** [Monks] Engineering Intern
+  * Local: Brasil
+  * Link: [Inscrição Direta](https://brmonks.gupy.io/job/eyJqb2JJZCI6MTE1MDI5MDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
 
 ------------------------------

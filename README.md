@@ -2,6 +2,8 @@
 
 > 📊 **Acesso Rápido aos Resultados:** O relatório atualizado com todas as vagas capturadas pelos motores de busca pode ser acessado diretamente no arquivo [RESULT.md](RESULT.md).
 
+Falta Adicionar: IFOOD, SAMSUNG, SHOPEE, GOOGLE, QuintoAndar, Claro, VIVO, XP, IBM, Kaizen Gaming, Serasa Experian, BTG Pactual, B3, Uber, CI&T
+
 Este projeto consiste em um ecossistema escalável e modular voltado à coleta, filtragem e agregação de posições de estágio em canais proprietários e sistemas de rastreamento de candidatos (ATS) de instituições financeiras e empresas de tecnologia. O sistema mitiga a necessidade de consultas manuais descentralizadas por meio da execução cíclica de rotinas de engenharia reversa em APIs de recrutamento e parseamento de documentos estruturados (SSR).
 
 ## Arquitetura de Software

@@ -18,10 +18,14 @@
   },
   {
     "nome": "Itaú",
-    "engine": "talentbrew",
-    "url_api": "https://carreiras.itau.com.br/busca-de-vagas/estagio",
-    "config_extra": {
-      "base_url": "https://carreiras.itau.com.br"
-    }
+    "engine": "gupy",
+    "url_api": "https://employability-portal.gupy.io/api/v1/jobs?careerPageName=Itaú Unibanco",
+    "config_extra": {}
+  },
+  {
+    "nome": "Monks",
+    "engine": "gupy",
+    "url_api": "https://employability-portal.gupy.io/api/v1/jobs?careerPageName=Monks",
+    "config_extra": {}
   }
 ]

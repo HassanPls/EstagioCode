@@ -1,8 +1,6 @@
 import requests
-from bs4 import BeautifulSoup
 
 def engine_workday(url, config_extra, termo_busca):
-    """Trata requisições POST para a plataforma Workday (ex: Santander)"""
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "Content-Type": "application/json",
@@ -39,7 +37,6 @@ def engine_workday(url, config_extra, termo_busca):
 
 
 def engine_greenhouse(url, config_extra, termo_busca):
-    """Trata requisições GET para a plataforma Greenhouse (ex: Nubank)"""
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     }
@@ -67,53 +64,44 @@ def engine_greenhouse(url, config_extra, termo_busca):
         print(f"Erro na engine Greenhouse: {e}")
     return []
 
-def engine_talentbrew(url, config_extra, termo_busca):
-    """Trata raspagem baseada em HTML (SSR) para a plataforma TalentBrew (ex: Itaú)"""
+def engine_gupy(url, config_extra, termo_busca):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "Accept": "application/json, text/plain, */*"
     }
     
+    url_completa = f"{url}&jobName={termo_busca}"
+    
     try:
-        response = requests.get(url, headers=headers, timeout=10)
+        response = requests.get(url_completa, headers=headers, timeout=10)
         
         if response.status_code == 200:
-            soup = BeautifulSoup(response.text, 'html.parser')
-            
-            secao_resultados = soup.find(id="search-results-list") or soup.find(class_="search-results")
+            dados = response.json()
+            lista_vagas = dados.get('data', [])
             
             vagas_filtradas = []
-            
-            if secao_resultados:
-                cards_vagas = secao_resultados.find_all('a')
+            for vaga in lista_vagas:
+                titulo = vaga.get('name', '')
+                cidade = vaga.get('city', '')
+                estado = vaga.get('state', '')
+                localizacao = f"{cidade} - {estado}" if cidade and estado else "Brasil"
+                link = vaga.get('jobUrl', '')
                 
-                for card in cards_vagas:
-                    titulo_elemento = card.find(['h2', 'h3'])
-                    titulo = titulo_elemento.get_text(strip=True) if titulo_elemento else card.get_text(strip=True)
-                    
-                    href = card.get('href', '')
-                    if href.startswith('/'):
-                        link_completo = f"{config_extra.get('base_url')}{href}"
-                    else:
-                        link_completo = href
-                        
-                    local_elemento = card.find(class_='job-location') or card.find('span')
-                    local = local_elemento.get_text(strip=True) if local_elemento else "Brasil"
-                    
-                    if termo_busca.lower() in titulo.lower():
-                        vagas_filtradas.append({
-                            "titulo": titulo,
-                            "local": local,
-                            "link": link_completo
-                        })
-                        
+                vagas_filtradas.append({
+                    "titulo": titulo,
+                    "local": localizacao,
+                    "link": link
+                })
             return vagas_filtradas
+        else:
+            print(f"⚠️ API Gupy retornou Status Code: {response.status_code}")
             
     except Exception as e:
-        print(f"Erro na engine TalentBrew: {e}")
+        print(f"Erro na engine Gupy: {e}")
     return []
 
 MAPA_ENGINES = {
     "workday": engine_workday,
     "greenhouse": engine_greenhouse,
-    "talentbrew": engine_talentbrew
+    "gupy": engine_gupy
 }
