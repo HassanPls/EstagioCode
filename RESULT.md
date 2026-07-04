@@ -4,16 +4,14 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 03/07/2026 06:38:23 (Horário Local)
+**Última Atualização:** 04/07/2026 06:26:08 (Horário Local)
 
-**Total de vagas encontradas:** 5
+**Total de vagas encontradas:** 4
 
 ---
 
 ## SANTANDER
-* **Cargo:** Programa de Estágio Santander - 2026 - Banco de Talentos
-  * Local: Evergreen
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980)
+*Nenhuma vaga compatível localizada nos filtros atuais.*
 
 ------------------------------
 
