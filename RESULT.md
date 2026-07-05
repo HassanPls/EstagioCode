@@ -4,15 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-<<<<<<< HEAD
-**Última Atualização:** 04/07/2026 14:30:46 (Horário Local)
+**Última Atualização:** 05/07/2026 01:46:09 (Horário Local)
 
 **Total de vagas encontradas:** 13
-=======
-**Última Atualização:** 04/07/2026 17:12:25 (Horário Local)
-
-**Total de vagas encontradas:** 7
->>>>>>> 0a4fa4da9e7006a081b65a355cfbbbf82fcc9e06
 
 ---
 
