@@ -4,20 +4,38 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-<<<<<<< HEAD
-**Última Atualização:** 04/07/2026 13:59:17 (Horário Local)
+**Última Atualização:** 04/07/2026 14:30:46 (Horário Local)
 
-**Total de vagas encontradas:** 7
-=======
-**Última Atualização:** 04/07/2026 06:26:08 (Horário Local)
-
-**Total de vagas encontradas:** 4
->>>>>>> e3b7371263f1e4712a5f81b8db53817f542b9072
+**Total de vagas encontradas:** 13
 
 ---
 
+## SAMSUNG
+* **Cargo:** Estágio em Automação de Projetos
+  * Local: Parque dos Resedás, Campinas, Brazil
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Automao-de-Projetos_R115316)
+* **Cargo:** Estagiário Administrativo - R&D Fund
+  * Local: Parque dos Resedás, Campinas, Brazil
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estagirio-Administrativo---R-D-Fund_R118010)
+* **Cargo:** Estágio de Pós-Graduação em Ciência de Dados
+  * Local: Parque dos Resedás, Campinas, Brazil
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-de-Ps-Graduao-em-Cincia-de-Dados_R117586)
+* **Cargo:** AI Specialist Intern
+  * Local: 6 rue Fructidor, Saint-Ouen, France
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6-rue-Fructidor-Saint-Ouen-France/Business-Innovation-Assistant_R114893)
+* **Cargo:** Intern - open Innovation
+  * Local: Communications House,, Staines-Upon-Thames, United Kingdom
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Communications-House-Staines-Upon-Thames-United-Kingdom/Intern---open-Innovation_R117992)
+* **Cargo:** Samsung’s Internship
+  * Local: Via Mike Bongiorno, Milano, Italy
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Via-Mike-Bongiorno-Milano-Italy/Samsung-s-Internship_R114528-1)
+
+------------------------------
+
 ## SANTANDER
-*Nenhuma vaga compatível localizada nos filtros atuais.*
+* **Cargo:** Programa de Estágio Santander - 2026 - Banco de Talentos
+  * Local: Evergreen
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980)
 
 ------------------------------
 

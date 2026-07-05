@@ -1,5 +1,14 @@
 [
   {
+    "nome": "Samsung",
+    "engine": "workday",
+    "url_api": "https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs",
+    "config_extra": {
+      "base_url_vagas": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers",
+      "appliedFacets": {}
+    }
+  },
+  {
     "nome": "Santander",
     "engine": "workday",
     "url_api": "https://santander.wd3.myworkdayjobs.com/wday/cxs/santander/SantanderCareers/jobs",

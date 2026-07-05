@@ -58,14 +58,14 @@ def enviar_notificacao_discord(resultados):
         quantidade = len(vagas)
         
         if quantidade > 0:
-            status_texto = f"🟢 **{quantidade}** vaga(s) localizada(s)"
+            status_texto = f"**{quantidade}** vaga(s) localizada(s)"
         else:
-            status_texto = "⚪ Nenhuma vaga encontrada"
+            status_texto = "Nenhuma vaga encontrada"
             
         embed["fields"].append({
             "name": empresa.upper(),
             "value": status_texto,
-            "inline": True 
+            "inline": False 
         })
 
     payload = {
