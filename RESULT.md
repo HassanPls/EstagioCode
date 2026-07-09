@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 08/07/2026 06:04:51 (Horário Local)
+**Última Atualização:** 09/07/2026 06:51:54 (Horário Local)
 
-**Total de vagas encontradas:** 13
+**Total de vagas encontradas:** 12
 
 ---
 
@@ -20,6 +20,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Estágio de Pós-Graduação em Ciência de Dados
   * Local: Parque dos Resedás, Campinas, Brazil
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-de-Ps-Graduao-em-Cincia-de-Dados_R117586)
+* **Cargo:** AI Specialist Intern
+  * Local: 6 rue Fructidor, Saint-Ouen, France
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6-rue-Fructidor-Saint-Ouen-France/Business-Innovation-Assistant_R114893)
 * **Cargo:** Intern - open Innovation
   * Local: Communications House,, Staines-Upon-Thames, United Kingdom
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Communications-House-Staines-Upon-Thames-United-Kingdom/Intern---open-Innovation_R117992)
@@ -48,12 +51,6 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Programa de Estágio Corporativo 2026
   * Local: São Paulo - São Paulo
   * Link: [Inscrição Direta](https://vemproitau.gupy.io/job/eyJqb2JJZCI6MTE1MTEzMTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
-* **Cargo:** Banco de Talentos - Estágio Corporativo Itaú
-  * Local: São Paulo - São Paulo
-  * Link: [Inscrição Direta](https://vemproitau.gupy.io/job/eyJqb2JJZCI6OTU1OTQ5MCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
-* **Cargo:** ESTÁGIO CORPORATIVO ATACADO | ITAÚ UNIBANCO
-  * Local: São Paulo - São Paulo
-  * Link: [Inscrição Direta](https://vemproitau.gupy.io/job/eyJqb2JJZCI6ODY2NDg5OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
 * **Cargo:** Estágio Comercial REDE | Itaú Unibanco - VAGAS PARA TODO O BRASIL
   * Local: São Paulo - São Paulo
   * Link: [Inscrição Direta](https://vemproitau.gupy.io/job/eyJqb2JJZCI6NjQ0NzcxMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
