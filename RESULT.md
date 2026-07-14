@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 13/07/2026 06:26:49 (Horário Local)
+**Última Atualização:** 14/07/2026 05:38:02 (Horário Local)
 
-**Total de vagas encontradas:** 13
+**Total de vagas encontradas:** 12
 
 ---
 
@@ -20,9 +20,6 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Estágio de Pós-Graduação em Ciência de Dados
   * Local: Parque dos Resedás, Campinas, Brazil
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-de-Ps-Graduao-em-Cincia-de-Dados_R117586)
-* **Cargo:** AI Specialist Intern
-  * Local: 6 rue Fructidor, Saint-Ouen, France
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6-rue-Fructidor-Saint-Ouen-France/Business-Innovation-Assistant_R114893)
 * **Cargo:** Intern - open Innovation
   * Local: Communications House,, Staines-Upon-Thames, United Kingdom
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Communications-House-Staines-Upon-Thames-United-Kingdom/Intern---open-Innovation_R117992)
