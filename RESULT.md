@@ -4,7 +4,7 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 14/07/2026 05:38:02 (Horário Local)
+**Última Atualização:** 15/07/2026 05:39:18 (Horário Local)
 
 **Total de vagas encontradas:** 12
 
@@ -17,9 +17,6 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Estagiário Administrativo - R&D Fund
   * Local: Parque dos Resedás, Campinas, Brazil
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estagirio-Administrativo---R-D-Fund_R118010)
-* **Cargo:** Estágio de Pós-Graduação em Ciência de Dados
-  * Local: Parque dos Resedás, Campinas, Brazil
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-de-Ps-Graduao-em-Cincia-de-Dados_R117586)
 * **Cargo:** Intern - open Innovation
   * Local: Communications House,, Staines-Upon-Thames, United Kingdom
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Communications-House-Staines-Upon-Thames-United-Kingdom/Intern---open-Innovation_R117992)
@@ -37,8 +34,11 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
   * Local: Evergreen
   * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980)
 * **Cargo:** Estagiario J6
-  * Local: SAO PAULO
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1535833)
+  * Local: CAMPINAS
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/CAMPINAS/Estagiario-J6_Req1578337)
+* **Cargo:** Estagiario J6
+  * Local: CUIABA
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/CUIABA/Estagiario-J6_Req1590031)
 
 ------------------------------
 
