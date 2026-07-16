@@ -100,8 +100,56 @@ def engine_gupy(url, config_extra, termo_busca):
         print(f"Erro na engine Gupy: {e}")
     return []
 
+def engine_workatsea(url, config_extra, termo_busca):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "Accept": "application/json, text/plain, */*",
+        "Origin": "https://careers.shopee.com.br",
+        "Referer": "https://careers.shopee.com.br/"
+    }
+    
+    params = {
+        "limit": 50,
+        "offset": 0,
+        "city_ids": config_extra.get("city_ids", 2),     
+        "employment_ids": config_extra.get("employment_ids", 4) 
+    }
+    
+    try:
+        response = requests.get(url, headers=headers, params=params, timeout=10)
+        
+        if response.status_code == 200:
+            dados = response.json()
+            vagas_raw = dados.get('data', {}).get('jobs', [])
+            vagas_filtradas = []
+            
+            termo = termo_busca.lower()
+            for item in vagas_raw:
+                titulo = item.get('title', '')
+                
+                if termo in titulo.lower() or "estagi" in titulo.lower():
+                    vaga_id = item.get('id')
+                    link_completo = f"{config_extra.get('base_url_vagas')}{vaga_id}"
+                    
+                    city_info = item.get('city', {})
+                    localizacao = city_info.get('name', 'São Paulo - SP') if city_info else 'São Paulo - SP'
+                    
+                    vagas_filtradas.append({
+                        "titulo": titulo,
+                        "local": localizacao,
+                        "link": link_completo
+                    })
+            return vagas_filtradas
+        else:
+            print(f"⚠️ API Shopee retornou Status Code: {response.status_code}")
+            
+    except Exception as e:
+        print(f"Erro na engine Shopee: {e}")
+    return []
+
 MAPA_ENGINES = {
     "workday": engine_workday,
     "greenhouse": engine_greenhouse,
-    "gupy": engine_gupy
+    "gupy": engine_gupy,
+    "workatsea": engine_workatsea,
 }

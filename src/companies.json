@@ -36,5 +36,33 @@
     "engine": "gupy",
     "url_api": "https://employability-portal.gupy.io/api/v1/jobs?careerPageName=Monks",
     "config_extra": {}
+  },
+  {
+    "nome": "Vivo",
+    "engine": "gupy",
+    "url_api": "https://employability-portal.gupy.io/api/v1/jobs?careerPageName=Vem Pra Vivo",
+    "config_extra": {}
+  },
+  {
+    "nome": "TIM",
+    "engine": "gupy",
+    "url_api": "https://employability-portal.gupy.io/api/v1/jobs?careerPageName=TIM Brasil",
+    "config_extra": {}
+  },
+  {
+    "nome": "QuintoAndar",
+    "engine": "greenhouse",
+    "url_api": "https://boards-api.greenhouse.io/v1/boards/quintoandar/jobs",
+    "config_extra": {}
+  },
+  {
+    "nome": "Shopee",
+    "engine": "workatsea",
+    "url_api": "https://ats.workatsea.com/ats/api/v1/user/job/list/",
+    "config_extra": {
+      "base_url_vagas": "https://careers.shopee.com.br/job-detail/",
+      "city_ids": 2,
+      "employment_ids": 4
+    }
   }
 ]

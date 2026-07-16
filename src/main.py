@@ -1,14 +1,17 @@
 import json
 import os
 from datetime import datetime
-import requests
 from engines import MAPA_ENGINES
 
 def carregar_configuracoes():
     with open('src/companies.json', 'r', encoding='utf-8') as f:
         return json.load(f)
 
-def salvar_relatorio_markdown(resultados):
+def salvar_relatorio_markdown(resultados, houve_mudanca_real):
+    if not houve_mudanca_real:
+        print("💤 Nenhuma alteração real nas vagas. Arquivo RESULT.md mantido intacto.")
+        return False
+
     data_atual = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
     
     linhas = []
@@ -35,51 +38,7 @@ def salvar_relatorio_markdown(resultados):
     with open('RESULT.md', 'w', encoding='utf-8') as f:
         f.write("\n".join(linhas))
     print("💾 Arquivo RESULT.md atualizado com sucesso.")
-
-def enviar_notificacao_discord(resultados):
-    webhook_url = os.environ.get("DISCORD_WEBHOOK_URL")
-    
-    if not webhook_url:
-        print("⚠️ DISCORD_WEBHOOK_URL não configurada no ambiente. Pulando notificação.")
-        return
-
-    data_atual = datetime.now().strftime("%d/%m/%Y %H:%M")
-    total_vagas = sum(len(vagas) for vagas in resultados.values())
-    repo_url = "https://github.com/HassanPls/EstagioCode/blob/main/RESULT.md"
-    
-    embed = {
-        "title": "📋 Atualização do Monitor de Vagas",
-        "description": f"Varredura concluída com sucesso em {data_atual}.\nTotal de oportunidades consolidadas: **{total_vagas}**\n\n[➔ Acessar Relatório Completo (RESULT.md)]({repo_url})",
-        "color": 3447003, 
-        "fields": []
-    }
-    
-    for empresa, vagas in resultados.items():
-        quantidade = len(vagas)
-        
-        if quantidade > 0:
-            status_texto = f"**{quantidade}** vaga(s) localizada(s)"
-        else:
-            status_texto = "Nenhuma vaga encontrada"
-            
-        embed["fields"].append({
-            "name": empresa.upper(),
-            "value": status_texto,
-            "inline": False 
-        })
-
-    payload = {
-        "embeds": [embed]
-    }
-    
-    try:
-        response = requests.post(webhook_url, json=payload)
-        if response.status_code == 204:
-            print("🚀 Notificação resumida enviada com sucesso para o Discord!")
-        else:
-            print(f"❌ Erro ao enviar para o Discord: Código {response.status_code}")
-    except Exception as e:
-        print(f"❌ Falha de rede ao conectar com o Discord: {e}")
+    return True
 
 def executar_busca_vagas(termos=["estágio", "intern", "internship"]):
     empresas = carregar_configuracoes()
@@ -118,9 +77,35 @@ def executar_busca_vagas(termos=["estágio", "intern", "internship"]):
             
     return todas_as_vagas
 
+def mapear_links_atuais(resultados):
+    links = set()
+    for vagas in resultados.values():
+        for vaga in vagas:
+            links.add(vaga['link'])
+    return links
+
+def ler_links_antigos():
+    links = set()
+    if not os.path.exists('RESULT.md'):
+        return links
+    
+    with open('RESULT.md', 'r', encoding='utf-8') as f:
+        for linha in f:
+            if "Link: [Inscrição Direta]" in linha:
+                try:
+                    link = linha.split('(')[1].split(')')[0]
+                    links.add(link)
+                except IndexError:
+                    continue
+    return links
+
 if __name__ == "__main__":
     termos_alvo = ["estágio", "intern", "internship"]
     resultados = executar_busca_vagas(termos_alvo)
 
-    salvar_relatorio_markdown(resultados)
-    enviar_notificacao_discord(resultados)
+    links_novos = mapear_links_atuais(resultados)
+    links_antigos = ler_links_antigos()
+
+    houve_mudanca = links_novos != links_antigos
+
+    salvar_relatorio_markdown(resultados, houve_mudanca)
