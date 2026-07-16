@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 16/07/2026 05:48:22 (Horário Local)
+**Última Atualização:** 16/07/2026 17:13:56 (Horário Local)
 
-**Total de vagas encontradas:** 11
+**Total de vagas encontradas:** 18
 
 ---
 
@@ -33,6 +33,12 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Programa de Estágio Santander - 2026 - Banco de Talentos
   * Local: Evergreen
   * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980)
+* **Cargo:** PGX ESTAGIARIO
+  * Local: PGX São Paulo
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/PGX-So-Paulo/PGX-ESTAGIARIO_Req1588115)
+* **Cargo:** Estagiario J6
+  * Local: SAO PAULO
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1589520)
 * **Cargo:** BRA Estagiario J6
   * Local: SAO PAULO
   * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1594187)
@@ -61,5 +67,37 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** [Monks] Estágio em Mídias de Performance  
   * Local: Brasil
   * Link: [Inscrição Direta](https://brmonks.gupy.io/job/eyJqb2JJZCI6MTE0MjU4NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
+
+------------------------------
+
+## VIVO
+* **Cargo:** Programa de Estágio Vivo 2026
+  * Local: São Paulo - São Paulo
+  * Link: [Inscrição Direta](https://vivo.gupy.io/job/eyJqb2JJZCI6MTE1MTYzNzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
+* **Cargo:** Auditor(a) Sênior - Auditoria Interna | Data Analytics
+  * Local: São Paulo - São Paulo
+  * Link: [Inscrição Direta](https://vivo.gupy.io/job/eyJqb2JJZCI6MTE1OTgzNTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
+* **Cargo:** Auditor(a) Sênior - Auditoria Interna 
+  * Local: São Paulo - São Paulo
+  * Link: [Inscrição Direta](https://vivo.gupy.io/job/eyJqb2JJZCI6MTEzNzA0ODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
+
+------------------------------
+
+## TIM
+* **Cargo:** Banco de Talentos - Programa de Estágio TIM 
+  * Local: Rio de Janeiro - Rio de Janeiro
+  * Link: [Inscrição Direta](https://vemprotime.gupy.io/job/eyJqb2JJZCI6MTAwMjM0NjIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
+
+------------------------------
+
+## QUINTOANDAR
+* **Cargo:** Grupo QuintoAndar | Analista de Controles Internos - Vaga Afirmativa PCD
+  * Local: São Paulo, São Paulo, Brazil
+  * Link: [Inscrição Direta](https://job-boards.greenhouse.io/quintoandar/jobs/4179430009)
+
+------------------------------
+
+## SHOPEE
+*Nenhuma vaga compatível localizada nos filtros atuais.*
 
 ------------------------------
