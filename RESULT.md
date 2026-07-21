@@ -4,7 +4,7 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 20/07/2026 06:23:50 (Horário Local)
+**Última Atualização:** 21/07/2026 05:57:20 (Horário Local)
 
 **Total de vagas encontradas:** 16
 
@@ -17,9 +17,6 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Estagiário Administrativo - R&D Fund
   * Local: Parque dos Resedás, Campinas, Brazil
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estagirio-Administrativo---R-D-Fund_R118010)
-* **Cargo:** Intern - open Innovation
-  * Local: Communications House,, Staines-Upon-Thames, United Kingdom
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Communications-House-Staines-Upon-Thames-United-Kingdom/Intern---open-Innovation_R117992)
 * **Cargo:** Customer Service Intern
   * Local: BITEXCO Financial Tower, Ho Chi Minh, Vietnam
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/BITEXCO-Financial-Tower-Ho-Chi-Minh-Vietnam/Customer-Service-Intern_R118519-7)
@@ -74,6 +71,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Auditor(a) Sênior - Auditoria Interna | Data Analytics
   * Local: São Paulo - São Paulo
   * Link: [Inscrição Direta](https://vivo.gupy.io/job/eyJqb2JJZCI6MTE1OTgzNTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
+* **Cargo:** Auditor(a) Sênior - Auditoria Interna 
+  * Local: São Paulo - São Paulo
+  * Link: [Inscrição Direta](https://vivo.gupy.io/job/eyJqb2JJZCI6MTEzNzA0ODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
 
 ------------------------------
 
