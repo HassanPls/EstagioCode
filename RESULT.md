@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 21/07/2026 05:57:20 (Horário Local)
+**Última Atualização:** 22/07/2026 05:56:21 (Horário Local)
 
-**Total de vagas encontradas:** 16
+**Total de vagas encontradas:** 14
 
 ---
 
@@ -33,9 +33,6 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Programa de Estágio Santander - 2026 - Banco de Talentos
   * Local: Evergreen
   * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980)
-* **Cargo:** BRA Estagiario J6
-  * Local: SAO PAULO
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1594187)
 
 ------------------------------
 
@@ -71,9 +68,6 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Auditor(a) Sênior - Auditoria Interna | Data Analytics
   * Local: São Paulo - São Paulo
   * Link: [Inscrição Direta](https://vivo.gupy.io/job/eyJqb2JJZCI6MTE1OTgzNTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
-* **Cargo:** Auditor(a) Sênior - Auditoria Interna 
-  * Local: São Paulo - São Paulo
-  * Link: [Inscrição Direta](https://vivo.gupy.io/job/eyJqb2JJZCI6MTEzNzA0ODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
 
 ------------------------------
 
