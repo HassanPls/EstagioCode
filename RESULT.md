@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 22/07/2026 05:56:21 (Horário Local)
+**Última Atualização:** 23/07/2026 06:07:31 (Horário Local)
 
-**Total de vagas encontradas:** 14
+**Total de vagas encontradas:** 15
 
 ---
 
@@ -17,6 +17,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Estagiário Administrativo - R&D Fund
   * Local: Parque dos Resedás, Campinas, Brazil
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estagirio-Administrativo---R-D-Fund_R118010)
+* **Cargo:** Research Intern
+  * Local: 50/60 Station Road, Cambridge, United Kingdom
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/5060-Station-Road-Cambridge-United-Kingdom/Research-Intern_R117158-1)
 * **Cargo:** Customer Service Intern
   * Local: BITEXCO Financial Tower, Ho Chi Minh, Vietnam
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/BITEXCO-Financial-Tower-Ho-Chi-Minh-Vietnam/Customer-Service-Intern_R118519-7)
