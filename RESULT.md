@@ -4,7 +4,11 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
+<<<<<<< HEAD
 **Última Atualização:** 23/07/2026 21:23:00 (Horário Local)
+=======
+**Última Atualização:** 23/07/2026 06:07:31 (Horário Local)
+>>>>>>> 12a86c18fc27340d4fdd446fd0efc89cbe06f031
 
 **Total de vagas encontradas:** 15
 
@@ -17,6 +21,12 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Estagiário Administrativo - R&D Fund
   * Local: Parque dos Resedás, Campinas, Brazil
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estagirio-Administrativo---R-D-Fund_R118010)
+<<<<<<< HEAD
+=======
+* **Cargo:** Research Intern
+  * Local: 50/60 Station Road, Cambridge, United Kingdom
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/5060-Station-Road-Cambridge-United-Kingdom/Research-Intern_R117158-1)
+>>>>>>> 12a86c18fc27340d4fdd446fd0efc89cbe06f031
 * **Cargo:** Customer Service Intern
   * Local: BITEXCO Financial Tower, Ho Chi Minh, Vietnam
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/BITEXCO-Financial-Tower-Ho-Chi-Minh-Vietnam/Customer-Service-Intern_R118519-7)
@@ -33,6 +43,7 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Programa de Estágio Santander - 2026 - Banco de Talentos
   * Local: Evergreen
   * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980)
+<<<<<<< HEAD
 * **Cargo:** Estagiario J6
   * Local: SAO PAULO
   * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1577007)
@@ -42,6 +53,8 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** BRA Estagiario J6
   * Local: SAO PAULO
   * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1594187)
+=======
+>>>>>>> 12a86c18fc27340d4fdd446fd0efc89cbe06f031
 
 ------------------------------
 
@@ -74,6 +87,12 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Programa de Estágio Vivo 2026
   * Local: São Paulo - São Paulo
   * Link: [Inscrição Direta](https://vivo.gupy.io/job/eyJqb2JJZCI6MTE1MTYzNzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
+<<<<<<< HEAD
+=======
+* **Cargo:** Auditor(a) Sênior - Auditoria Interna | Data Analytics
+  * Local: São Paulo - São Paulo
+  * Link: [Inscrição Direta](https://vivo.gupy.io/job/eyJqb2JJZCI6MTE1OTgzNTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
+>>>>>>> 12a86c18fc27340d4fdd446fd0efc89cbe06f031
 
 ------------------------------
 
