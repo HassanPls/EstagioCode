@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EstagioCode — Radar de Vagas de TI & Exatas</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body { background-color: #0f172a; color: #f8fafc; }
+  </style>
+</head>
+<body class="min-h-screen font-sans antialiased p-4 sm:p-8">
+  <div class="max-w-5xl mx-auto space-y-6">
+    
+    <header class="border-b border-slate-800 pb-6 flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
+      <div>
+        <h1 class="text-3xl font-extrabold text-blue-400 flex items-center gap-2">
+          ⚡ EstagioCode
+        </h1>
+        <p class="text-slate-400 text-sm mt-1">Monitor automatizado de oportunidades de estágio em TI, Exatas e Dados</p>
+      </div>
+      <div class="text-right">
+        <span id="badge-total" class="px-3 py-1 bg-blue-500/10 text-blue-400 border border-blue-500/20 rounded-full text-xs font-semibold">
+          Carregando vagas...
+        </span>
+        <p id="ultima-atualizacao" class="text-xs text-slate-500 mt-2">Atualizado em: --</p>
+      </div>
+    </header>
+
+    <div class="flex flex-col sm:flex-row gap-4">
+      <input 
+        type="text" 
+        id="input-busca" 
+        placeholder="🔍 Filtrar por cargo ou local (ex: Dados, São Paulo, Remoto)..." 
+        class="w-full px-4 py-3 bg-slate-900 border border-slate-800 rounded-xl focus:outline-none focus:border-blue-500 text-sm placeholder-slate-500 transition-all"
+        oninput="filtrarVagas()"
+      />
+    </div>
+
+    <main id="vagas-container" class="space-y-6">
+      <div class="text-center py-12 text-slate-500">
+        <p class="animate-pulse">Buscando as vagas mais recentes...</p>
+      </div>
+    </main>
+
+  </div>
+
+  <script>
+    let dadosGlobais = null;
+
+    async function carregarVagas() {
+      try {
+        const response = await fetch('vagas.json');
+        if (!response.ok) throw new Error('Falha ao carregar arquivo de vagas');
+        
+        dadosGlobais = await response.json();
+        
+        document.getElementById('ultima-atualizacao').innerText = `Atualizado em: ${dadosGlobais.ultima_atualizacao}`;
+        document.getElementById('badge-total').innerText = `${dadosGlobais.total_vagas} Vagas Ativas`;
+        
+        renderizarVagas(dadosGlobais.empresas);
+      } catch (err) {
+        document.getElementById('vagas-container').innerHTML = `
+          <div class="bg-red-950/30 border border-red-500/20 rounded-xl p-6 text-center text-red-400">
+            <p class="font-semibold">Erro ao carregar o relatório de vagas.</p>
+            <p class="text-xs text-red-500 mt-1">Certifique-se de que o vagas.json foi gerado pelo pipeline.</p>
+          </div>
+        `;
+      }
+    }
+
+    function renderizarVagas(empresas, termoBusca = '') {
+      const container = document.getElementById('vagas-container');
+      container.innerHTML = '';
+
+      let encontrouAlguma = false;
+
+      Object.entries(empresas).forEach(([empresa, vagas]) => {
+        const vagasFiltradas = vagas.filter(v => 
+          v.titulo.toLowerCase().includes(termoBusca.toLowerCase()) || 
+          v.local.toLowerCase().includes(termoBusca.toLowerCase())
+        );
+
+        if (vagasFiltradas.length > 0) {
+          encontrouAlguma = true;
+          
+          const blocoEmpresa = document.createElement('section');
+          blocoEmpresa.className = 'bg-slate-900/60 border border-slate-800 rounded-2xl p-5 space-y-4';
+          
+          blocoEmpresa.innerHTML = `
+            <div class="flex justify-between items-center border-b border-slate-800 pb-3">
+              <h2 class="text-lg font-bold text-slate-200 tracking-wide uppercase">${empresa}</h2>
+              <span class="text-xs bg-slate-800 px-2.5 py-1 rounded-md text-slate-400 font-medium">${vagasFiltradas.length} vaga(s)</span>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+              ${vagasFiltradas.map(v => `
+                <div class="bg-slate-950/50 border border-slate-800/80 rounded-xl p-4 flex flex-col justify-between hover:border-blue-500/40 transition-all group">
+                  <div>
+                    <h3 class="font-medium text-slate-200 text-sm group-hover:text-blue-400 transition-colors">${v.titulo}</h3>
+                    <p class="text-xs text-slate-500 mt-1">📍 ${v.local || 'Localização não especificada'}</p>
+                  </div>
+                  <div class="mt-4 pt-3 border-t border-slate-900 flex justify-end">
+                    <a href="${v.link}" target="_blank" class="inline-flex items-center gap-1 text-xs font-semibold text-blue-400 hover:text-blue-300">
+                      Inscrição Direta ➔
+                    </a>
+                  </div>
+                </div>
+              `).join('')}
+            </div>
+          `;
+          container.appendChild(blocoEmpresa);
+        }
+      });
+
+      if (!encontrouAlguma) {
+        container.innerHTML = `
+          <div class="text-center py-12 text-slate-500">
+            <p>Nenhuma vaga encontrada com o filtro "${termoBusca}".</p>
+          </div>
+        `;
+      }
+    }
+
+    function filtrarVagas() {
+      const termo = document.getElementById('input-busca').value;
+      if (dadosGlobais) {
+        renderizarVagas(dadosGlobais.empresas, termo);
+      }
+    }
+
+    carregarVagas();
+  </script>
+</body>
+</html>

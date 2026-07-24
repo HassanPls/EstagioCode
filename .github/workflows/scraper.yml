@@ -33,15 +33,15 @@ jobs:
       - name: Executar Rotina de Coleta
         run: python src/main.py
 
-      - name: Verificar Alteracoes no Relatorio
+      - name: Verificar Alteracoes nos Relatorios
         id: verify_diff
         run: |
-          if git status --porcelain | grep -q "RESULT.md"; then
+          if git status --porcelain | grep -E "RESULT.md|public/vagas.json"; then
             echo "changed=true" >> $GITHUB_OUTPUT
-            echo "🔍 Novas vagas detectadas!"
+            echo "🔍 Novas vagas ou alterações detectadas!"
           else
             echo "changed=false" >> $GITHUB_OUTPUT
-            echo "💤 Nenhuma vaga nova adicionada."
+            echo "💤 Nenhuma alteração nas vagas."
           fi
 
       - name: Enviar Notificacao para o Discord
@@ -78,6 +78,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add RESULT.md
-          git commit -m "bot: atualizacao automatizada do relatorio de vagas [skip ci]"
+          git add RESULT.md public/vagas.json
+          git commit -m "bot: atualizacao automatizada de vagas [skip ci]"
           git push
