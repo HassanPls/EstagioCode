@@ -36,7 +36,7 @@ jobs:
       - name: Verificar Alteracoes nos Relatorios
         id: verify_diff
         run: |
-          if git status --porcelain | grep -E "RESULT.md|public/vagas.json"; then
+          if git status --porcelain | grep -E "RESULT.md|docs/vagas.json"; then
             echo "changed=true" >> $GITHUB_OUTPUT
             echo "🔍 Novas vagas ou alterações detectadas!"
           else
@@ -78,6 +78,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add RESULT.md public/vagas.json
+          git add RESULT.md docs/vagas.json
           git commit -m "bot: atualizacao automatizada de vagas [skip ci]"
           git push

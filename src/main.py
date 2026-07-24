@@ -4,7 +4,7 @@ import re
 from datetime import datetime
 from engines import MAPA_ENGINES
 
-DATA_JSON_PATH = 'public/vagas.json'
+DATA_JSON_PATH = 'docs/vagas.json'
 RESULT_MD_PATH = 'RESULT.md'
 
 def carregar_configuracoes():
