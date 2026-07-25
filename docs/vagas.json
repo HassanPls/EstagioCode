@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "24/07/2026 05:55:24",
+  "ultima_atualizacao": "25/07/2026 05:48:50",
   "total_vagas": 12,
   "empresas": {
     "Samsung": [
@@ -7,6 +7,11 @@
         "titulo": "Estágio em Design & Comunicação",
         "local": "Parque dos Resedás, Campinas, Brazil",
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Design---Comunicao_R118316"
+      },
+      {
+        "titulo": "Estágio em Automação de Projetos",
+        "local": "Parque dos Resedás, Campinas, Brazil",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Automao-de-Projetos_R115316"
       },
       {
         "titulo": "Estagiário Administrativo - R&D Fund",
@@ -61,13 +66,7 @@
         "link": "https://brmonks.gupy.io/job/eyJqb2JJZCI6MTE0MjU4NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal"
       }
     ],
-    "Vivo": [
-      {
-        "titulo": "Programa de Estágio Vivo 2026",
-        "local": "São Paulo - São Paulo",
-        "link": "https://vivo.gupy.io/job/eyJqb2JJZCI6MTE1MTYzNzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal"
-      }
-    ],
+    "Vivo": [],
     "TIM": [
       {
         "titulo": "Banco de Talentos - Programa de Estágio TIM ",
