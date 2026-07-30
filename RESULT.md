@@ -4,7 +4,7 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 29/07/2026 06:04:49 (Horário Local)
+**Última Atualização:** 30/07/2026 05:50:24 (Horário Local)
 
 **Total de vagas encontradas:** 14
 
@@ -36,9 +36,6 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Estagiario
   * Local: RECIFE
   * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/RECIFE/Estagiario_Req1593372)
-* **Cargo:** BRA  Estagiario J6
-  * Local: SAO PAULO
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA--Estagiario-J6_Req1589445)
 * **Cargo:** BRA Estagiario J6
   * Local: SAO PAULO
   * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1594187)
@@ -64,6 +61,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 ------------------------------
 
 ## MONKS
+* **Cargo:** [Campus.Monks] Estágio em Growth
+  * Local: Brasil
+  * Link: [Inscrição Direta](https://brmonks.gupy.io/job/eyJqb2JJZCI6MTE4MjYwODEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
 * **Cargo:** [Monks] Estágio em Mídias de Performance  
   * Local: Brasil
   * Link: [Inscrição Direta](https://brmonks.gupy.io/job/eyJqb2JJZCI6MTE0MjU4NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
