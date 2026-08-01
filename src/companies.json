@@ -30,6 +30,11 @@
     "engine": "gupy",
     "url_api": "https://employability-portal.gupy.io/api/v1/jobs?careerPageName=Itaú Unibanco",
     "config_extra": {}
+  },{
+    "nome": "Banco Sofisa",
+    "engine": "gupy",
+    "url_api": "https://employability-portal.gupy.io/api/v1/jobs?careerPageName=Banco Sofisa",
+    "config_extra": {}
   },
   {
     "nome": "Monks",
@@ -50,9 +55,21 @@
     "config_extra": {}
   },
   {
+    "nome": "Claro",
+    "engine": "gupy",
+    "url_api": "https://employability-portal.gupy.io/api/v1/jobs?careerPageName=Claro",
+    "config_extra": {}
+  },
+  {
     "nome": "QuintoAndar",
     "engine": "greenhouse",
     "url_api": "https://boards-api.greenhouse.io/v1/boards/quintoandar/jobs",
+    "config_extra": {}
+  },
+  {
+    "nome": "Porto",
+    "engine": "gupy",
+    "url_api": "https://employability-portal.gupy.io/api/v1/jobs?careerPageName=Porto",
     "config_extra": {}
   },
   {
