@@ -4,38 +4,19 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 31/07/2026 06:19:44 (Horário Local)
+**Última Atualização:** 01/08/2026 06:05:59 (Horário Local)
 
-**Total de vagas encontradas:** 13
+**Total de vagas encontradas:** 6
 
 ---
 
 ## SAMSUNG
-* **Cargo:** Estágio em Design & Comunicação
-  * Local: Parque dos Resedás, Campinas, Brazil
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Design---Comunicao_R118316)
-* **Cargo:** Estágio em Automação de Projetos
-  * Local: Parque dos Resedás, Campinas, Brazil
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Automao-de-Projetos_R115316)
-* **Cargo:** Estagiário Administrativo - R&D Fund
-  * Local: Parque dos Resedás, Campinas, Brazil
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estagirio-Administrativo---R-D-Fund_R118010)
-* **Cargo:** Customer Service Intern
-  * Local: BITEXCO Financial Tower, Ho Chi Minh, Vietnam
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/BITEXCO-Financial-Tower-Ho-Chi-Minh-Vietnam/Customer-Service-Intern_R118519-7)
-* **Cargo:** Samsung’s Internship
-  * Local: Via Mike Bongiorno, Milano, Italy
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Via-Mike-Bongiorno-Milano-Italy/Samsung-s-Internship_R114528-1)
+*Nenhuma vaga compatível localizada nos filtros atuais.*
 
 ------------------------------
 
 ## SANTANDER
-* **Cargo:** Programa de Estágio Santander - 2026 - Banco de Talentos
-  * Local: Evergreen
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980)
-* **Cargo:** BRA Estagiario J6
-  * Local: SAO PAULO
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1594187)
+*Nenhuma vaga compatível localizada nos filtros atuais.*
 
 ------------------------------
 
@@ -54,6 +35,11 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Estágio Comercial - Rede de Agências | Vagas em todo o Brasil 🤝🏽🚀
   * Local: São Paulo - São Paulo
   * Link: [Inscrição Direta](https://vemproitau.gupy.io/job/eyJqb2JJZCI6NTA4ODcwMCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal)
+
+------------------------------
+
+## BANCO SOFISA
+*Nenhuma vaga compatível localizada nos filtros atuais.*
 
 ------------------------------
 
@@ -79,7 +65,17 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ------------------------------
 
+## CLARO
+*Nenhuma vaga compatível localizada nos filtros atuais.*
+
+------------------------------
+
 ## QUINTOANDAR
+*Nenhuma vaga compatível localizada nos filtros atuais.*
+
+------------------------------
+
+## PORTO
 *Nenhuma vaga compatível localizada nos filtros atuais.*
 
 ------------------------------

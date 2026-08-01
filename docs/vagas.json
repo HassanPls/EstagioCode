@@ -1,46 +1,9 @@
 {
-  "ultima_atualizacao": "31/07/2026 06:19:44",
-  "total_vagas": 13,
+  "ultima_atualizacao": "01/08/2026 06:05:59",
+  "total_vagas": 6,
   "empresas": {
-    "Samsung": [
-      {
-        "titulo": "Estágio em Design & Comunicação",
-        "local": "Parque dos Resedás, Campinas, Brazil",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Design---Comunicao_R118316"
-      },
-      {
-        "titulo": "Estágio em Automação de Projetos",
-        "local": "Parque dos Resedás, Campinas, Brazil",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Automao-de-Projetos_R115316"
-      },
-      {
-        "titulo": "Estagiário Administrativo - R&D Fund",
-        "local": "Parque dos Resedás, Campinas, Brazil",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estagirio-Administrativo---R-D-Fund_R118010"
-      },
-      {
-        "titulo": "Customer Service Intern",
-        "local": "BITEXCO Financial Tower, Ho Chi Minh, Vietnam",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/BITEXCO-Financial-Tower-Ho-Chi-Minh-Vietnam/Customer-Service-Intern_R118519-7"
-      },
-      {
-        "titulo": "Samsung’s Internship",
-        "local": "Via Mike Bongiorno, Milano, Italy",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Via-Mike-Bongiorno-Milano-Italy/Samsung-s-Internship_R114528-1"
-      }
-    ],
-    "Santander": [
-      {
-        "titulo": "Programa de Estágio Santander - 2026 - Banco de Talentos",
-        "local": "Evergreen",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980"
-      },
-      {
-        "titulo": "BRA Estagiario J6",
-        "local": "SAO PAULO",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1594187"
-      }
-    ],
+    "Samsung": [],
+    "Santander": [],
     "Nubank": [],
     "Itaú": [
       {
@@ -59,6 +22,7 @@
         "link": "https://vemproitau.gupy.io/job/eyJqb2JJZCI6NTA4ODcwMCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal"
       }
     ],
+    "Banco Sofisa": [],
     "Monks": [
       {
         "titulo": "[Campus.Monks] Estágio em Growth",
@@ -79,7 +43,9 @@
         "link": "https://vemprotime.gupy.io/job/eyJqb2JJZCI6MTAwMjM0NjIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal"
       }
     ],
+    "Claro": [],
     "QuintoAndar": [],
+    "Porto": [],
     "Shopee": []
   }
 }
