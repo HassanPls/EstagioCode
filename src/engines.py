@@ -1,38 +1,66 @@
 import requests
 
 def engine_workday(url, config_extra, termo_busca):
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "Content-Type": "application/json",
-        "Accept": "application/json",
-        "Accept-Language": "pt-BR"
-    }
+    session = requests.Session()
     
+    base_url_vagas = config_extra.get("base_url_vagas", "")
+    
+    domain_origin = "/".join(url.split("/")[:3]) if url.startswith("http") else ""
+
+    headers_base = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Content-Type": "application/json",
+        "Origin": domain_origin,
+        "Referer": base_url_vagas,
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "same-origin"
+    }
+
     payload = {
         "appliedFacets": config_extra.get("appliedFacets", {}),
         "limit": 20,
         "offset": 0,
         "searchText": termo_busca
     }
-    
+
     try:
-        response = requests.post(url, headers=headers, json=payload, timeout=10)
+        if base_url_vagas:
+            session.get(base_url_vagas, headers={"User-Agent": headers_base["User-Agent"]}, timeout=5)
+
+        session.headers.update(headers_base)
+
+        response = session.post(url, json=payload, timeout=10)
+
         if response.status_code == 200:
-            vagas_raw = response.json().get('jobPostings', [])
+            dados = response.json()
+            vagas_raw = dados.get('jobPostings', [])
             vagas_filtradas = []
-            
+
             for item in vagas_raw:
-                path_relativo = item.get('externalPath')
-                link_completo = f"{config_extra.get('base_url_vagas')}{path_relativo}"
+                path_relativo = item.get('externalPath', '')
                 
+                if base_url_vagas.endswith('/') and path_relativo.startswith('/'):
+                    link_completo = f"{base_url_vagas[:-1]}{path_relativo}"
+                elif not base_url_vagas.endswith('/') and not path_relativo.startswith('/'):
+                    link_completo = f"{base_url_vagas}/{path_relativo}"
+                else:
+                    link_completo = f"{base_url_vagas}{path_relativo}"
+
                 vagas_filtradas.append({
                     "titulo": item.get('title'),
                     "local": item.get('locationsText', 'Brasil'),
                     "link": link_completo
                 })
             return vagas_filtradas
+        else:
+            print(f"⚠️ Workday [{url}] retornou Status Code: {response.status_code}")
+
     except Exception as e:
         print(f"Erro na engine Workday: {e}")
+
     return []
 
 
