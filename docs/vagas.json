@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "01/08/2026 21:44:41",
-  "total_vagas": 13,
+  "ultima_atualizacao": "03/08/2026 06:31:09",
+  "total_vagas": 12,
   "empresas": {
     "Samsung": [
       {
@@ -30,11 +30,6 @@
       }
     ],
     "Santander": [
-      {
-        "titulo": "BRA Estagiario J6",
-        "local": "SAO PAULO",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1594187"
-      },
       {
         "titulo": "Programa de Estágio Santander - 2026 - Banco de Talentos",
         "local": "Evergreen",

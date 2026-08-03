@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 01/08/2026 21:44:41 (Horário Local)
+**Última Atualização:** 03/08/2026 06:31:09 (Horário Local)
 
-**Total de vagas encontradas:** 13
+**Total de vagas encontradas:** 12
 
 ---
 
@@ -30,9 +30,6 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 ------------------------------
 
 ## SANTANDER
-* **Cargo:** BRA Estagiario J6
-  * Local: SAO PAULO
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1594187)
 * **Cargo:** Programa de Estágio Santander - 2026 - Banco de Talentos
   * Local: Evergreen
   * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980)
