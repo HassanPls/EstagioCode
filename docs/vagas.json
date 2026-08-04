@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "03/08/2026 06:31:09",
-  "total_vagas": 12,
+  "ultima_atualizacao": "04/08/2026 05:55:22",
+  "total_vagas": 15,
   "empresas": {
     "Samsung": [
       {
@@ -31,9 +31,24 @@
     ],
     "Santander": [
       {
+        "titulo": "Estagiario J6",
+        "local": "SETE LAGOAS",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SETE-LAGOAS/Estagiario-J6_Req1595114"
+      },
+      {
+        "titulo": "Estagiario J6",
+        "local": "SAO PAULO",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1595190"
+      },
+      {
         "titulo": "Programa de Estágio Santander - 2026 - Banco de Talentos",
         "local": "Evergreen",
         "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980"
+      },
+      {
+        "titulo": "BRA  Estagiario J6",
+        "local": "RIO DE JANEIRO",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/RIO-DE-JANEIRO/BRA--Estagiario-J6_Req1592918"
       }
     ],
     "Nubank": [],
