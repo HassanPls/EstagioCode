@@ -4,7 +4,7 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 04/08/2026 05:55:22 (Horário Local)
+**Última Atualização:** 05/08/2026 05:52:27 (Horário Local)
 
 **Total de vagas encontradas:** 15
 
@@ -26,6 +26,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Samsung’s Internship
   * Local: Via Mike Bongiorno, Milano, Italy
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Via-Mike-Bongiorno-Milano-Italy/Samsung-s-Internship_R114528-1)
+* **Cargo:** 2027 Summer Internship
+  * Local: 1530 FM 973 Taylor, TX, USA
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-Summer-Internship_R119158)
 
 ------------------------------
 
@@ -34,14 +37,11 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
   * Local: SETE LAGOAS
   * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SETE-LAGOAS/Estagiario-J6_Req1595114)
 * **Cargo:** Estagiario J6
-  * Local: SAO PAULO
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1595190)
+  * Local: DUQUE DE CAXIAS
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/DUQUE-DE-CAXIAS/Estagiario-J6_Req1580207)
 * **Cargo:** Programa de Estágio Santander - 2026 - Banco de Talentos
   * Local: Evergreen
   * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980)
-* **Cargo:** BRA  Estagiario J6
-  * Local: RIO DE JANEIRO
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/RIO-DE-JANEIRO/BRA--Estagiario-J6_Req1592918)
 
 ------------------------------
 

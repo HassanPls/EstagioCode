@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "04/08/2026 05:55:22",
+  "ultima_atualizacao": "05/08/2026 05:52:27",
   "total_vagas": 15,
   "empresas": {
     "Samsung": [
@@ -27,6 +27,11 @@
         "titulo": "Samsung’s Internship",
         "local": "Via Mike Bongiorno, Milano, Italy",
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Via-Mike-Bongiorno-Milano-Italy/Samsung-s-Internship_R114528-1"
+      },
+      {
+        "titulo": "2027 Summer Internship",
+        "local": "1530 FM 973 Taylor, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-Summer-Internship_R119158"
       }
     ],
     "Santander": [
@@ -37,18 +42,13 @@
       },
       {
         "titulo": "Estagiario J6",
-        "local": "SAO PAULO",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1595190"
+        "local": "DUQUE DE CAXIAS",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/DUQUE-DE-CAXIAS/Estagiario-J6_Req1580207"
       },
       {
         "titulo": "Programa de Estágio Santander - 2026 - Banco de Talentos",
         "local": "Evergreen",
         "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980"
-      },
-      {
-        "titulo": "BRA  Estagiario J6",
-        "local": "RIO DE JANEIRO",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/RIO-DE-JANEIRO/BRA--Estagiario-J6_Req1592918"
       }
     ],
     "Nubank": [],
