@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "07/08/2026 05:00:05",
-  "total_vagas": 14,
+  "ultima_atualizacao": "08/08/2026 04:16:33",
+  "total_vagas": 15,
   "empresas": {
     "Samsung": [
       {
@@ -36,9 +36,9 @@
         "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1595870"
       },
       {
-        "titulo": "Estagiario J6",
-        "local": "SAO PAULO",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1588450"
+        "titulo": "BRA  Estagiario J6",
+        "local": "RIO DE JANEIRO",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/RIO-DE-JANEIRO/BRA--Estagiario-J6_Req1592918"
       },
       {
         "titulo": "BRA Estagiario J6 (S3)",
@@ -87,7 +87,13 @@
     ],
     "Claro": [],
     "QuintoAndar": [],
-    "Porto": [],
+    "Porto": [
+      {
+        "titulo": "Estágio em Gestão de Estruturados e Tesouraria (ALM)",
+        "local": "São Paulo - São Paulo",
+        "link": "https://porto.gupy.io/job/eyJqb2JJZCI6MTE5ODU2NzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal"
+      }
+    ],
     "Shopee": []
   }
 }
