@@ -4,7 +4,7 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 10/08/2026 04:46:03 (Horário Local)
+**Última Atualização:** 11/08/2026 04:26:25 (Horário Local)
 
 **Total de vagas encontradas:** 14
 
@@ -27,15 +27,18 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 ------------------------------
 
 ## SANTANDER
-* **Cargo:** Estagiario J6
-  * Local: SAO PAULO
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1595870)
 * **Cargo:** Programa de Estágio Santander - 2026 - Banco de Talentos
   * Local: Evergreen
   * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980)
-* **Cargo:** BRA Estagiario J6 (S3)
+* **Cargo:** Estagiario J6
   * Local: SAO PAULO
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6--S3-_Req1599247)
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1595870)
+* **Cargo:** Estagiario J6
+  * Local: SAO PAULO
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1580144)
+* **Cargo:** BRA Estagiario J6
+  * Local: DUQUE DE CAXIAS
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/DUQUE-DE-CAXIAS/BRA-Estagiario-J6_Req1434948)
 
 ------------------------------
 
@@ -66,9 +69,6 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** [Campus.Monks] Estágio em Growth
   * Local: Brasil
   * Link: [Inscrição Direta](https://brmonks.gupy.io/job/eyJqb2JJZCI6MTE4MjYwODEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
-* **Cargo:** [Monks] Estágio em Mídias de Performance  
-  * Local: Brasil
-  * Link: [Inscrição Direta](https://brmonks.gupy.io/job/eyJqb2JJZCI6MTE0MjU4NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
 
 ------------------------------
 

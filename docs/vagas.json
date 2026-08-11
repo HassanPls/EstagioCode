@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/08/2026 04:46:03",
+  "ultima_atualizacao": "11/08/2026 04:26:25",
   "total_vagas": 14,
   "empresas": {
     "Samsung": [
@@ -26,19 +26,24 @@
     ],
     "Santander": [
       {
-        "titulo": "Estagiario J6",
-        "local": "SAO PAULO",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1595870"
-      },
-      {
         "titulo": "Programa de Estágio Santander - 2026 - Banco de Talentos",
         "local": "Evergreen",
         "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980"
       },
       {
-        "titulo": "BRA Estagiario J6 (S3)",
+        "titulo": "Estagiario J6",
         "local": "SAO PAULO",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6--S3-_Req1599247"
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1595870"
+      },
+      {
+        "titulo": "Estagiario J6",
+        "local": "SAO PAULO",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1580144"
+      },
+      {
+        "titulo": "BRA Estagiario J6",
+        "local": "DUQUE DE CAXIAS",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/DUQUE-DE-CAXIAS/BRA-Estagiario-J6_Req1434948"
       }
     ],
     "Nubank": [],
@@ -65,11 +70,6 @@
         "titulo": "[Campus.Monks] Estágio em Growth",
         "local": "Brasil",
         "link": "https://brmonks.gupy.io/job/eyJqb2JJZCI6MTE4MjYwODEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal"
-      },
-      {
-        "titulo": "[Monks] Estágio em Mídias de Performance  ",
-        "local": "Brasil",
-        "link": "https://brmonks.gupy.io/job/eyJqb2JJZCI6MTE0MjU4NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal"
       }
     ],
     "Vivo": [],
