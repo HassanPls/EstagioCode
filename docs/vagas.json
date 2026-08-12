@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "11/08/2026 04:26:25",
-  "total_vagas": 14,
+  "ultima_atualizacao": "12/08/2026 04:54:22",
+  "total_vagas": 15,
   "empresas": {
     "Samsung": [
       {
@@ -38,12 +38,12 @@
       {
         "titulo": "Estagiario J6",
         "local": "SAO PAULO",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1580144"
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1588450"
       },
       {
-        "titulo": "BRA Estagiario J6",
-        "local": "DUQUE DE CAXIAS",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/DUQUE-DE-CAXIAS/BRA-Estagiario-J6_Req1434948"
+        "titulo": "Estagiario J6 (S3)",
+        "local": "SAO PAULO",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6--S3-_Req1600201"
       }
     ],
     "Nubank": [],
@@ -87,6 +87,11 @@
         "titulo": "Estágio em Gestão de Estruturados e Tesouraria (ALM)",
         "local": "São Paulo - São Paulo",
         "link": "https://porto.gupy.io/job/eyJqb2JJZCI6MTE5ODU2NzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal"
+      },
+      {
+        "titulo": "Estágio em Relações com Investidores, M&A e Planejamento Estratégico",
+        "local": "São Paulo - São Paulo",
+        "link": "https://porto.gupy.io/job/eyJqb2JJZCI6MTE0NjQ3MTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal"
       }
     ],
     "Shopee": []

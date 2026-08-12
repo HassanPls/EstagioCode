@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 11/08/2026 04:26:25 (Horário Local)
+**Última Atualização:** 12/08/2026 04:54:22 (Horário Local)
 
-**Total de vagas encontradas:** 14
+**Total de vagas encontradas:** 15
 
 ---
 
@@ -35,10 +35,10 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
   * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1595870)
 * **Cargo:** Estagiario J6
   * Local: SAO PAULO
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1580144)
-* **Cargo:** BRA Estagiario J6
-  * Local: DUQUE DE CAXIAS
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/DUQUE-DE-CAXIAS/BRA-Estagiario-J6_Req1434948)
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1588450)
+* **Cargo:** Estagiario J6 (S3)
+  * Local: SAO PAULO
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6--S3-_Req1600201)
 
 ------------------------------
 
@@ -98,6 +98,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Estágio em Gestão de Estruturados e Tesouraria (ALM)
   * Local: São Paulo - São Paulo
   * Link: [Inscrição Direta](https://porto.gupy.io/job/eyJqb2JJZCI6MTE5ODU2NzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
+* **Cargo:** Estágio em Relações com Investidores, M&A e Planejamento Estratégico
+  * Local: São Paulo - São Paulo
+  * Link: [Inscrição Direta](https://porto.gupy.io/job/eyJqb2JJZCI6MTE0NjQ3MTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
 
 ------------------------------
 
