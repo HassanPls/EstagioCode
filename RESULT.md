@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 12/08/2026 04:54:22 (Horário Local)
+**Última Atualização:** 13/08/2026 04:58:58 (Horário Local)
 
-**Total de vagas encontradas:** 15
+**Total de vagas encontradas:** 14
 
 ---
 
@@ -33,12 +33,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Estagiario J6
   * Local: SAO PAULO
   * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1595870)
-* **Cargo:** Estagiario J6
-  * Local: SAO PAULO
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1588450)
-* **Cargo:** Estagiario J6 (S3)
-  * Local: SAO PAULO
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6--S3-_Req1600201)
+* **Cargo:** BRA Estagiario J6
+  * Local: JOINVILLE
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/JOINVILLE/BRA-Estagiario-J6_Req1556056)
 
 ------------------------------
 

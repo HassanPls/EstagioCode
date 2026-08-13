@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "12/08/2026 04:54:22",
-  "total_vagas": 15,
+  "ultima_atualizacao": "13/08/2026 04:58:58",
+  "total_vagas": 14,
   "empresas": {
     "Samsung": [
       {
@@ -36,14 +36,9 @@
         "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1595870"
       },
       {
-        "titulo": "Estagiario J6",
-        "local": "SAO PAULO",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1588450"
-      },
-      {
-        "titulo": "Estagiario J6 (S3)",
-        "local": "SAO PAULO",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6--S3-_Req1600201"
+        "titulo": "BRA Estagiario J6",
+        "local": "JOINVILLE",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/JOINVILLE/BRA-Estagiario-J6_Req1556056"
       }
     ],
     "Nubank": [],
