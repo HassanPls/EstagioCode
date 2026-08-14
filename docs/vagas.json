@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "13/08/2026 04:58:58",
-  "total_vagas": 14,
+  "ultima_atualizacao": "14/08/2026 04:55:54",
+  "total_vagas": 15,
   "empresas": {
     "Samsung": [
       {
@@ -32,13 +32,23 @@
       },
       {
         "titulo": "Estagiario J6",
+        "local": "CARUARU",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/CARUARU/Estagiario-J6_Req1593427"
+      },
+      {
+        "titulo": "Estagiario J6",
         "local": "SAO PAULO",
         "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1595870"
       },
       {
+        "titulo": "Estagiario J6",
+        "local": "SAO PAULO",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1580144"
+      },
+      {
         "titulo": "BRA Estagiario J6",
-        "local": "JOINVILLE",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/JOINVILLE/BRA-Estagiario-J6_Req1556056"
+        "local": "SAO PAULO",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1589516"
       }
     ],
     "Nubank": [],
@@ -60,13 +70,7 @@
       }
     ],
     "Banco Sofisa": [],
-    "Monks": [
-      {
-        "titulo": "[Campus.Monks] Estágio em Growth",
-        "local": "Brasil",
-        "link": "https://brmonks.gupy.io/job/eyJqb2JJZCI6MTE4MjYwODEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal"
-      }
-    ],
+    "Monks": [],
     "Vivo": [],
     "TIM": [
       {
