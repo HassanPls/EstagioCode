@@ -1,17 +1,17 @@
 {
-  "ultima_atualizacao": "18/08/2026 03:50:40",
+  "ultima_atualizacao": "20/08/2026 03:52:27",
   "total_vagas": 19,
   "empresas": {
     "Samsung": [
       {
-        "titulo": "Estágio em Design & Comunicação",
-        "local": "Parque dos Resedás, Campinas, Brazil",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Design---Comunicao_R118316"
-      },
-      {
         "titulo": "Estágio em Desenvolvimento de Software",
         "local": "Parque dos Resedás, Campinas, Brazil",
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Desenvolvimento-de-Software_R119117-1"
+      },
+      {
+        "titulo": "Estágio em Desenvolvimento de Software - Inteligência Artificial",
+        "local": "Parque dos Resedás, Campinas, Brazil",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Desenvolvimento-de-Software---Inteligncia-Artificial_R119619"
       },
       {
         "titulo": "Samsung’s Internship",
@@ -66,9 +66,9 @@
         "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1601000"
       },
       {
-        "titulo": "BRA Estagiario J6",
+        "titulo": "Estagiario J6",
         "local": "SAO PAULO",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1601063"
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1601337"
       }
     ],
     "Nubank": [],
