@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "21/08/2026 03:55:51",
-  "total_vagas": 17,
+  "ultima_atualizacao": "22/08/2026 03:48:26",
+  "total_vagas": 16,
   "empresas": {
     "Samsung": [
       {
@@ -37,28 +37,23 @@
       },
       {
         "titulo": "Estagiario J6",
-        "local": "GOIANA",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/GOIANA/Estagiario-J6_Req1593429"
+        "local": "BETIM",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/BETIM/Estagiario-J6_Req1577412"
       },
       {
         "titulo": "Estagiario J6",
-        "local": "RECIFE",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/RECIFE/Estagiario-J6_Req1600942"
+        "local": "SAO PAULO",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1601683"
       },
       {
         "titulo": "BRA Estagiario J6",
         "local": "SAO PAULO",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1589516"
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1601063"
       },
       {
         "titulo": "BRA Estagiario J6",
-        "local": "OSASCO",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/OSASCO/BRA-Estagiario-J6_Req1492784"
-      },
-      {
-        "titulo": "BRA Estagiario J6",
-        "local": "CUIABA",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/CUIABA/BRA-Estagiario-J6_Req1601555"
+        "local": "PAULISTA",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/PAULISTA/BRA-Estagiario-J6_Req1587880"
       }
     ],
     "Nubank": [],

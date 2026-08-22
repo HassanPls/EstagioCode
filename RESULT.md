@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 21/08/2026 03:55:51 (Horário Local)
+**Última Atualização:** 22/08/2026 03:48:26 (Horário Local)
 
-**Total de vagas encontradas:** 17
+**Total de vagas encontradas:** 16
 
 ---
 
@@ -34,20 +34,17 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
   * Local: SAO PAULO
   * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1595870)
 * **Cargo:** Estagiario J6
-  * Local: GOIANA
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/GOIANA/Estagiario-J6_Req1593429)
+  * Local: BETIM
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/BETIM/Estagiario-J6_Req1577412)
 * **Cargo:** Estagiario J6
-  * Local: RECIFE
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/RECIFE/Estagiario-J6_Req1600942)
+  * Local: SAO PAULO
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1601683)
 * **Cargo:** BRA Estagiario J6
   * Local: SAO PAULO
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1589516)
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1601063)
 * **Cargo:** BRA Estagiario J6
-  * Local: OSASCO
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/OSASCO/BRA-Estagiario-J6_Req1492784)
-* **Cargo:** BRA Estagiario J6
-  * Local: CUIABA
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/CUIABA/BRA-Estagiario-J6_Req1601555)
+  * Local: PAULISTA
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/PAULISTA/BRA-Estagiario-J6_Req1587880)
 
 ------------------------------
 
