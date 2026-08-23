@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "22/08/2026 03:48:26",
-  "total_vagas": 16,
+  "ultima_atualizacao": "23/08/2026 03:55:55",
+  "total_vagas": 15,
   "empresas": {
     "Samsung": [
       {
@@ -26,11 +26,6 @@
     ],
     "Santander": [
       {
-        "titulo": "Programa de Estágio Santander - 2026 - Banco de Talentos",
-        "local": "Evergreen",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980"
-      },
-      {
         "titulo": "Estagiario J6",
         "local": "SAO PAULO",
         "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1595870"
@@ -46,14 +41,14 @@
         "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1601683"
       },
       {
-        "titulo": "BRA Estagiario J6",
-        "local": "SAO PAULO",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1601063"
+        "titulo": "Programa de Estágio Santander - 2026 - Banco de Talentos",
+        "local": "Evergreen",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980"
       },
       {
         "titulo": "BRA Estagiario J6",
-        "local": "PAULISTA",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/PAULISTA/BRA-Estagiario-J6_Req1587880"
+        "local": "SAO PAULO",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1601063"
       }
     ],
     "Nubank": [],
