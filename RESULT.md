@@ -4,13 +4,16 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 24/08/2026 04:00:35 (Horário Local)
+**Última Atualização:** 25/08/2026 03:53:57 (Horário Local)
 
 **Total de vagas encontradas:** 13
 
 ---
 
 ## SAMSUNG
+* **Cargo:** Estágio em Manutenção Predial
+  * Local: Parque dos Resedás, Campinas, Brazil
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Manuteno-Predial_R116525)
 * **Cargo:** Estágio em Desenvolvimento de Software
   * Local: Parque dos Resedás, Campinas, Brazil
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Desenvolvimento-de-Software_R119117-1)
@@ -27,15 +30,15 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 ------------------------------
 
 ## SANTANDER
-* **Cargo:** Estagiario J6
-  * Local: SAO PAULO
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1595870)
-* **Cargo:** Estagiario J6
-  * Local: SAO PAULO
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1601683)
 * **Cargo:** Programa de Estágio Santander - 2026 - Banco de Talentos
   * Local: Evergreen
   * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980)
+* **Cargo:** Estagiario J6
+  * Local: SAO PAULO
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1595870)
+* **Cargo:** BRA Estagiario J6
+  * Local: SAO PAULO
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1580385)
 
 ------------------------------
 
@@ -90,9 +93,6 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 ------------------------------
 
 ## PORTO
-* **Cargo:** Estágio em Gestão de Estruturados e Tesouraria (ALM)
-  * Local: São Paulo - São Paulo
-  * Link: [Inscrição Direta](https://porto.gupy.io/job/eyJqb2JJZCI6MTE5ODU2NzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
 * **Cargo:** Estágio em Relações com Investidores, M&A e Planejamento Estratégico
   * Local: São Paulo - São Paulo
   * Link: [Inscrição Direta](https://porto.gupy.io/job/eyJqb2JJZCI6MTE0NjQ3MTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)

@@ -1,8 +1,13 @@
 {
-  "ultima_atualizacao": "24/08/2026 04:00:35",
+  "ultima_atualizacao": "25/08/2026 03:53:57",
   "total_vagas": 13,
   "empresas": {
     "Samsung": [
+      {
+        "titulo": "Estágio em Manutenção Predial",
+        "local": "Parque dos Resedás, Campinas, Brazil",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Manuteno-Predial_R116525"
+      },
       {
         "titulo": "Estágio em Desenvolvimento de Software",
         "local": "Parque dos Resedás, Campinas, Brazil",
@@ -26,19 +31,19 @@
     ],
     "Santander": [
       {
+        "titulo": "Programa de Estágio Santander - 2026 - Banco de Talentos",
+        "local": "Evergreen",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980"
+      },
+      {
         "titulo": "Estagiario J6",
         "local": "SAO PAULO",
         "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1595870"
       },
       {
-        "titulo": "Estagiario J6",
+        "titulo": "BRA Estagiario J6",
         "local": "SAO PAULO",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1601683"
-      },
-      {
-        "titulo": "Programa de Estágio Santander - 2026 - Banco de Talentos",
-        "local": "Evergreen",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980"
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1580385"
       }
     ],
     "Nubank": [],
@@ -72,11 +77,6 @@
     "Claro": [],
     "QuintoAndar": [],
     "Porto": [
-      {
-        "titulo": "Estágio em Gestão de Estruturados e Tesouraria (ALM)",
-        "local": "São Paulo - São Paulo",
-        "link": "https://porto.gupy.io/job/eyJqb2JJZCI6MTE5ODU2NzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal"
-      },
       {
         "titulo": "Estágio em Relações com Investidores, M&A e Planejamento Estratégico",
         "local": "São Paulo - São Paulo",
