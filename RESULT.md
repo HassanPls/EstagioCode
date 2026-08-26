@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 25/08/2026 03:53:57 (Horário Local)
+**Última Atualização:** 26/08/2026 03:58:13 (Horário Local)
 
-**Total de vagas encontradas:** 13
+**Total de vagas encontradas:** 23
 
 ---
 
@@ -36,9 +36,39 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Estagiario J6
   * Local: SAO PAULO
   * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1595870)
+* **Cargo:** Estagiario J6
+  * Local: SAO PAULO
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1594254)
+* **Cargo:** Estagiario J6
+  * Local: SAO PAULO
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1601000)
+* **Cargo:** Estagiario J6
+  * Local: GOIANA
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/GOIANA/Estagiario-J6_Req1593429)
+* **Cargo:** Estagiario J6
+  * Local: RECIFE
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/RECIFE/Estagiario-J6_Req1600942)
+* **Cargo:** Estagiario J6
+  * Local: SAO PAULO
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1601683)
+* **Cargo:** Estagiario J6
+  * Local: SAO PAULO
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1599269)
+* **Cargo:** Estagiario J6
+  * Local: VILA VELHA
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/VILA-VELHA/Estagiario-J6_Req1601436)
+* **Cargo:** BRA Estagiario J6
+  * Local: CUIABA
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/CUIABA/BRA-Estagiario-J6_Req1601555)
 * **Cargo:** BRA Estagiario J6
   * Local: SAO PAULO
   * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1580385)
+* **Cargo:** BRA  Estagiario J6
+  * Local: SAO PAULO
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA--Estagiario-J6_Req1566549)
+* **Cargo:** BRA  Estagiario J6
+  * Local: RIO DE JANEIRO
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/RIO-DE-JANEIRO/BRA--Estagiario-J6_Req1579434)
 
 ------------------------------
 

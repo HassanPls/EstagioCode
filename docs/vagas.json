@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "25/08/2026 03:53:57",
-  "total_vagas": 13,
+  "ultima_atualizacao": "26/08/2026 03:58:13",
+  "total_vagas": 23,
   "empresas": {
     "Samsung": [
       {
@@ -41,9 +41,59 @@
         "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1595870"
       },
       {
+        "titulo": "Estagiario J6",
+        "local": "SAO PAULO",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1594254"
+      },
+      {
+        "titulo": "Estagiario J6",
+        "local": "SAO PAULO",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1601000"
+      },
+      {
+        "titulo": "Estagiario J6",
+        "local": "GOIANA",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/GOIANA/Estagiario-J6_Req1593429"
+      },
+      {
+        "titulo": "Estagiario J6",
+        "local": "RECIFE",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/RECIFE/Estagiario-J6_Req1600942"
+      },
+      {
+        "titulo": "Estagiario J6",
+        "local": "SAO PAULO",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1601683"
+      },
+      {
+        "titulo": "Estagiario J6",
+        "local": "SAO PAULO",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagiario-J6_Req1599269"
+      },
+      {
+        "titulo": "Estagiario J6",
+        "local": "VILA VELHA",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/VILA-VELHA/Estagiario-J6_Req1601436"
+      },
+      {
+        "titulo": "BRA Estagiario J6",
+        "local": "CUIABA",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/CUIABA/BRA-Estagiario-J6_Req1601555"
+      },
+      {
         "titulo": "BRA Estagiario J6",
         "local": "SAO PAULO",
         "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1580385"
+      },
+      {
+        "titulo": "BRA  Estagiario J6",
+        "local": "SAO PAULO",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/BRA--Estagiario-J6_Req1566549"
+      },
+      {
+        "titulo": "BRA  Estagiario J6",
+        "local": "RIO DE JANEIRO",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/RIO-DE-JANEIRO/BRA--Estagiario-J6_Req1579434"
       }
     ],
     "Nubank": [],
