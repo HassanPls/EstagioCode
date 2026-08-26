@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "26/08/2026 22:09:15",
-  "total_vagas": 11,
+  "ultima_atualizacao": "26/08/2026 22:14:48",
+  "total_vagas": 13,
   "empresas": {
     "Samsung": [
       {
@@ -29,7 +29,18 @@
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-Summer-Internship_R119158"
       }
     ],
-    "Santander": [],
+    "Santander": [
+      {
+        "titulo": "Estágio - Banco de Talentos",
+        "local": "Evergreen",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Estgio---Banco-de-Talentos_Req1607393"
+      },
+      {
+        "titulo": "Programa de Estágio Santander - 2026 - Banco de Talentos",
+        "local": "Evergreen",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980"
+      }
+    ],
     "Nubank": [
       {
         "titulo": "Programa de Estágio Nubank 2027",
