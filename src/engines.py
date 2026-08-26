@@ -4,6 +4,7 @@ def engine_workday(url, config_extra, termo_busca):
     session = requests.Session()
     
     base_url_vagas = config_extra.get("base_url_vagas", "")
+    ignorar_termos = config_extra.get("ignorar_termos", [])
     
     domain_origin = "/".join(url.split("/")[:3]) if url.startswith("http") else ""
 
@@ -38,8 +39,15 @@ def engine_workday(url, config_extra, termo_busca):
             dados = response.json()
             vagas_raw = dados.get('jobPostings', [])
             vagas_filtradas = []
+            locais_vistos = set()
 
             for item in vagas_raw:
+                titulo = item.get('title', '')
+                local = item.get('locationsText', 'Brasil')
+                
+                if any(termo_ignorado in titulo.lower() for termo_ignorado in ignorar_termos):
+                    continue
+
                 path_relativo = item.get('externalPath', '')
                 
                 if base_url_vagas.endswith('/') and path_relativo.startswith('/'):
@@ -50,8 +58,8 @@ def engine_workday(url, config_extra, termo_busca):
                     link_completo = f"{base_url_vagas}{path_relativo}"
 
                 vagas_filtradas.append({
-                    "titulo": item.get('title'),
-                    "local": item.get('locationsText', 'Brasil'),
+                    "titulo": titulo,
+                    "local": local,
                     "link": link_completo
                 })
             return vagas_filtradas
@@ -62,7 +70,6 @@ def engine_workday(url, config_extra, termo_busca):
         print(f"Erro na engine Workday: {e}")
 
     return []
-
 
 def engine_greenhouse(url, config_extra, termo_busca):
     headers = {
@@ -175,9 +182,58 @@ def engine_workatsea(url, config_extra, termo_busca):
         print(f"Erro na engine Shopee: {e}")
     return []
 
+def engine_ashby(url, config_extra, termo_busca):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "Accept": "application/json"
+    }
+    
+    try:
+        response = requests.get(url, headers=headers, timeout=10)
+        
+        if response.status_code == 200:
+            dados = response.json()
+            vagas_raw = dados.get('jobs', [])
+            vagas_filtradas = []
+            
+            termo = termo_busca.lower()
+            
+            for item in vagas_raw:
+                titulo = item.get('title', '')
+                department = item.get('department', '')
+                team = item.get('team', '')
+                employment_type = item.get('employmentType', '')
+                
+                texto_meta = f"{titulo} {department} {team} {employment_type}".lower()
+                
+                if (termo in texto_meta or 
+                    "estágio" in texto_meta or 
+                    "estagio" in texto_meta or 
+                    "early talent" in texto_meta or 
+                    "intern" in texto_meta):
+                    
+                    localizacao = item.get('location', item.get('locationName', 'Não especificado'))
+                    link = item.get('jobUrl', item.get('absolute_url', ''))
+                    
+                    vagas_filtradas.append({
+                        "titulo": titulo,
+                        "local": localizacao,
+                        "link": link
+                    })
+                    
+            return vagas_filtradas
+        else:
+            print(f"⚠️ API Ashby [{url}] retornou Status Code: {response.status_code}")
+            
+    except Exception as e:
+        print(f"Erro na engine Ashby: {e}")
+        
+    return []
+
 MAPA_ENGINES = {
     "workday": engine_workday,
     "greenhouse": engine_greenhouse,
     "gupy": engine_gupy,
     "workatsea": engine_workatsea,
+    "ashby": engine_ashby,
 }

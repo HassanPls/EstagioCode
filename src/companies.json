@@ -16,13 +16,14 @@
       "base_url_vagas": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers",
       "appliedFacets": {
         "locationCountry": ["1a29bb1357b240ab99a2fa755cc87c0e"]
-      }
+      },
+      "ignorar_termos": ["j6", "banco de talentos"]
     }
   },
   {
     "nome": "Nubank",
-    "engine": "greenhouse",
-    "url_api": "https://boards-api.greenhouse.io/v1/boards/nubank/jobs",
+    "engine": "ashby",
+    "url_api": "https://api.ashbyhq.com/posting-api/job-board/nubank",
     "config_extra": {}
   },
   {
