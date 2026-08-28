@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "26/08/2026 22:14:48",
-  "total_vagas": 13,
+  "ultima_atualizacao": "28/08/2026 15:15:03",
+  "total_vagas": 14,
   "empresas": {
     "Samsung": [
       {
@@ -12,6 +12,11 @@
         "titulo": "Estágio em Desenvolvimento de Software",
         "local": "Parque dos Resedás, Campinas, Brazil",
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Desenvolvimento-de-Software_R119117-1"
+      },
+      {
+        "titulo": "Estágio em Gestão de Projetos",
+        "local": "Parque dos Resedás, Campinas, Brazil",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Gesto-de-Projetos_R119992"
       },
       {
         "titulo": "Estágio em Desenvolvimento de Software - Inteligência Artificial",
