@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "28/08/2026 15:15:03",
-  "total_vagas": 14,
+  "ultima_atualizacao": "29/08/2026 09:57:04",
+  "total_vagas": 13,
   "empresas": {
     "Samsung": [
       {
@@ -35,11 +35,6 @@
       }
     ],
     "Santander": [
-      {
-        "titulo": "Estágio - Banco de Talentos",
-        "local": "Evergreen",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Estgio---Banco-de-Talentos_Req1607393"
-      },
       {
         "titulo": "Programa de Estágio Santander - 2026 - Banco de Talentos",
         "local": "Evergreen",
