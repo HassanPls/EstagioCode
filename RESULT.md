@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 29/08/2026 09:57:04 (Horário Local)
+**Última Atualização:** 31/08/2026 09:37:07 (Horário Local)
 
-**Total de vagas encontradas:** 13
+**Total de vagas encontradas:** 12
 
 ---
 
@@ -40,9 +40,7 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 ------------------------------
 
 ## NUBANK
-* **Cargo:** Programa de Estágio Nubank 2027
-  * Local: São Paulo
-  * Link: [Inscrição Direta](https://jobs.ashbyhq.com/nubank/f5e4a8da-037b-489d-9ac1-37b9acc1da4c)
+*Nenhuma vaga compatível localizada nos filtros atuais.*
 
 ------------------------------
 
