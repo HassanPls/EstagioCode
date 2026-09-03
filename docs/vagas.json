@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "02/09/2026 07:49:49",
+  "ultima_atualizacao": "03/09/2026 07:57:59",
   "total_vagas": 11,
   "empresas": {
     "Samsung": [
@@ -19,11 +19,6 @@
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Gesto-de-Projetos_R119992"
       },
       {
-        "titulo": "Estágio em Desenvolvimento de Software - Inteligência Artificial",
-        "local": "Parque dos Resedás, Campinas, Brazil",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Desenvolvimento-de-Software---Inteligncia-Artificial_R119619"
-      },
-      {
         "titulo": "Samsung’s Internship",
         "local": "Via Mike Bongiorno, Milano, Italy",
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Via-Mike-Bongiorno-Milano-Italy/Samsung-s-Internship_R114528-1"
@@ -34,7 +29,13 @@
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-Summer-Internship_R119158"
       }
     ],
-    "Santander": [],
+    "Santander": [
+      {
+        "titulo": "Programa de Estágio Santander - 2026 - Banco de Talentos",
+        "local": "Evergreen",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980"
+      }
+    ],
     "Nubank": [],
     "Itaú": [
       {

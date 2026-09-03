@@ -4,7 +4,7 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 02/09/2026 07:49:49 (Horário Local)
+**Última Atualização:** 03/09/2026 07:57:59 (Horário Local)
 
 **Total de vagas encontradas:** 11
 
@@ -20,9 +20,6 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Estágio em Gestão de Projetos
   * Local: Parque dos Resedás, Campinas, Brazil
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Gesto-de-Projetos_R119992)
-* **Cargo:** Estágio em Desenvolvimento de Software - Inteligência Artificial
-  * Local: Parque dos Resedás, Campinas, Brazil
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Desenvolvimento-de-Software---Inteligncia-Artificial_R119619)
 * **Cargo:** Samsung’s Internship
   * Local: Via Mike Bongiorno, Milano, Italy
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Via-Mike-Bongiorno-Milano-Italy/Samsung-s-Internship_R114528-1)
@@ -33,7 +30,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 ------------------------------
 
 ## SANTANDER
-*Nenhuma vaga compatível localizada nos filtros atuais.*
+* **Cargo:** Programa de Estágio Santander - 2026 - Banco de Talentos
+  * Local: Evergreen
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980)
 
 ------------------------------
 
