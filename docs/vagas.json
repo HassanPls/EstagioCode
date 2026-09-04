@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "03/09/2026 07:57:59",
-  "total_vagas": 11,
+  "ultima_atualizacao": "04/09/2026 07:53:57",
+  "total_vagas": 15,
   "empresas": {
     "Samsung": [
       {
@@ -34,6 +34,26 @@
         "titulo": "Programa de Estágio Santander - 2026 - Banco de Talentos",
         "local": "Evergreen",
         "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980"
+      },
+      {
+        "titulo": "PGX ESTAGIARIO",
+        "local": "PGX São Paulo",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/PGX-So-Paulo/PGX-ESTAGIARIO_Req1610520"
+      },
+      {
+        "titulo": "PGX ESTAGIARIO",
+        "local": "PGX São Paulo",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/PGX-So-Paulo/PGX-ESTAGIARIO_Req1610516"
+      },
+      {
+        "titulo": "PGX ESTAGIARIO",
+        "local": "PGX Porto Alegre",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/PGX-Porto-Alegre/PGX-ESTAGIARIO_Req1610521"
+      },
+      {
+        "titulo": "PGX ESTAGIARIO",
+        "local": "PGX São Paulo",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/PGX-So-Paulo/PGX-ESTAGIARIO_Req1610512"
       }
     ],
     "Nubank": [],
