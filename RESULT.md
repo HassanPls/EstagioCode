@@ -4,47 +4,19 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 04/09/2026 07:53:57 (Horário Local)
+**Última Atualização:** 05/09/2026 07:35:31 (Horário Local)
 
-**Total de vagas encontradas:** 15
+**Total de vagas encontradas:** 5
 
 ---
 
 ## SAMSUNG
-* **Cargo:** Estágio em Manutenção Predial
-  * Local: Parque dos Resedás, Campinas, Brazil
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Manuteno-Predial_R116525)
-* **Cargo:** Estágio em Desenvolvimento de Software
-  * Local: Parque dos Resedás, Campinas, Brazil
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Desenvolvimento-de-Software_R119117-1)
-* **Cargo:** Estágio em Gestão de Projetos
-  * Local: Parque dos Resedás, Campinas, Brazil
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Gesto-de-Projetos_R119992)
-* **Cargo:** Samsung’s Internship
-  * Local: Via Mike Bongiorno, Milano, Italy
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Via-Mike-Bongiorno-Milano-Italy/Samsung-s-Internship_R114528-1)
-* **Cargo:** 2027 Summer Internship
-  * Local: 1530 FM 973 Taylor, TX, USA
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-Summer-Internship_R119158)
+*Nenhuma vaga compatível localizada nos filtros atuais.*
 
 ------------------------------
 
 ## SANTANDER
-* **Cargo:** Programa de Estágio Santander - 2026 - Banco de Talentos
-  * Local: Evergreen
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980)
-* **Cargo:** PGX ESTAGIARIO
-  * Local: PGX São Paulo
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/PGX-So-Paulo/PGX-ESTAGIARIO_Req1610520)
-* **Cargo:** PGX ESTAGIARIO
-  * Local: PGX São Paulo
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/PGX-So-Paulo/PGX-ESTAGIARIO_Req1610516)
-* **Cargo:** PGX ESTAGIARIO
-  * Local: PGX Porto Alegre
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/PGX-Porto-Alegre/PGX-ESTAGIARIO_Req1610521)
-* **Cargo:** PGX ESTAGIARIO
-  * Local: PGX São Paulo
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/PGX-So-Paulo/PGX-ESTAGIARIO_Req1610512)
+*Nenhuma vaga compatível localizada nos filtros atuais.*
 
 ------------------------------
 
