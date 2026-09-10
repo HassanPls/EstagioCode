@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 06/09/2026 07:49:32 (Horário Local)
+**Última Atualização:** 10/09/2026 08:02:36 (Horário Local)
 
-**Total de vagas encontradas:** 11
+**Total de vagas encontradas:** 13
 
 ---
 
@@ -42,6 +42,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 ------------------------------
 
 ## ITAÚ
+* **Cargo:** Estágio de Férias Nacional 2026
+  * Local: São Paulo - São Paulo
+  * Link: [Inscrição Direta](https://vemproitau.gupy.io/job/eyJqb2JJZCI6MTIyODI2MDksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
 * **Cargo:** Programa de Estágio Corporativo 2026
   * Local: São Paulo - São Paulo
   * Link: [Inscrição Direta](https://vemproitau.gupy.io/job/eyJqb2JJZCI6MTE1MTEzMTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
@@ -87,6 +90,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 ------------------------------
 
 ## PORTO
+* **Cargo:** Estágio em Gestão de Estruturados e Tesouraria (ALM)
+  * Local: São Paulo - São Paulo
+  * Link: [Inscrição Direta](https://porto.gupy.io/job/eyJqb2JJZCI6MTE5ODU2NzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
 * **Cargo:** Estágio em Relações com Investidores, M&A e Planejamento Estratégico
   * Local: São Paulo - São Paulo
   * Link: [Inscrição Direta](https://porto.gupy.io/job/eyJqb2JJZCI6MTE0NjQ3MTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
