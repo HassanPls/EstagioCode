@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 10/09/2026 08:02:36 (Horário Local)
+**Última Atualização:** 14/09/2026 08:48:10 (Horário Local)
 
-**Total de vagas encontradas:** 13
+**Total de vagas encontradas:** 15
 
 ---
 
@@ -20,6 +20,12 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Estágio em Gestão de Projetos
   * Local: Parque dos Resedás, Campinas, Brazil
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Gesto-de-Projetos_R119992)
+* **Cargo:** AI Intern (graduation program)
+  * Local: Quartier d’affaire d’Alger, Algiers, Algeria
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Quartier-daffaire-dAlger-Algiers-Algeria/AI-Intern--graduation-program-_R120527)
+* **Cargo:** AI Intern (graduation program)
+  * Local: Quartier d’affaire d’Alger, Algiers, Algeria
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Quartier-daffaire-dAlger-Algiers-Algeria/AI-Intern--graduation-program-_R120528)
 * **Cargo:** Samsung’s Internship
   * Local: Via Mike Bongiorno, Milano, Italy
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Via-Mike-Bongiorno-Milano-Italy/Samsung-s-Internship_R114528-1)
