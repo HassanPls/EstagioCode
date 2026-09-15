@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "14/09/2026 08:48:10",
-  "total_vagas": 15,
+  "ultima_atualizacao": "15/09/2026 08:35:19",
+  "total_vagas": 13,
   "empresas": {
     "Samsung": [
       {
@@ -19,14 +19,9 @@
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Gesto-de-Projetos_R119992"
       },
       {
-        "titulo": "AI Intern (graduation program)",
-        "local": "Quartier d’affaire d’Alger, Algiers, Algeria",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Quartier-daffaire-dAlger-Algiers-Algeria/AI-Intern--graduation-program-_R120527"
-      },
-      {
-        "titulo": "AI Intern (graduation program)",
-        "local": "Quartier d’affaire d’Alger, Algiers, Algeria",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Quartier-daffaire-dAlger-Algiers-Algeria/AI-Intern--graduation-program-_R120528"
+        "titulo": "Estágio em Ciência de Dados",
+        "local": "Parque dos Resedás, Campinas, Brazil",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Cincia-de-Dados_R120599"
       },
       {
         "titulo": "Samsung’s Internship",
@@ -86,11 +81,6 @@
         "titulo": "Estágio em Gestão de Estruturados e Tesouraria (ALM)",
         "local": "São Paulo - São Paulo",
         "link": "https://porto.gupy.io/job/eyJqb2JJZCI6MTE5ODU2NzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal"
-      },
-      {
-        "titulo": "Estágio em Relações com Investidores, M&A e Planejamento Estratégico",
-        "local": "São Paulo - São Paulo",
-        "link": "https://porto.gupy.io/job/eyJqb2JJZCI6MTE0NjQ3MTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal"
       }
     ],
     "Shopee": []
