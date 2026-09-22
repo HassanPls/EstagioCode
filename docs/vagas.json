@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "20/09/2026 08:29:50",
-  "total_vagas": 12,
+  "ultima_atualizacao": "22/09/2026 08:26:46",
+  "total_vagas": 13,
   "empresas": {
     "Samsung": [
       {
@@ -76,7 +76,13 @@
     ],
     "Claro": [],
     "QuintoAndar": [],
-    "Porto": [],
+    "Porto": [
+      {
+        "titulo": "Estágio em Gestão de Estruturados e Tesouraria (ALM)",
+        "local": "São Paulo - São Paulo",
+        "link": "https://porto.gupy.io/job/eyJqb2JJZCI6MTE5ODU2NzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal"
+      }
+    ],
     "Shopee": []
   }
 }

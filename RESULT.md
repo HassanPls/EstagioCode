@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 20/09/2026 08:29:50 (Horário Local)
+**Última Atualização:** 22/09/2026 08:26:46 (Horário Local)
 
-**Total de vagas encontradas:** 12
+**Total de vagas encontradas:** 13
 
 ---
 
@@ -93,7 +93,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 ------------------------------
 
 ## PORTO
-*Nenhuma vaga compatível localizada nos filtros atuais.*
+* **Cargo:** Estágio em Gestão de Estruturados e Tesouraria (ALM)
+  * Local: São Paulo - São Paulo
+  * Link: [Inscrição Direta](https://porto.gupy.io/job/eyJqb2JJZCI6MTE5ODU2NzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
 
 ------------------------------
 
