@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 22/09/2026 08:26:46 (Horário Local)
+**Última Atualização:** 26/09/2026 08:30:31 (Horário Local)
 
-**Total de vagas encontradas:** 13
+**Total de vagas encontradas:** 12
 
 ---
 
@@ -45,9 +45,6 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 ------------------------------
 
 ## ITAÚ
-* **Cargo:** Estágio de Férias Nacional 2026
-  * Local: São Paulo - São Paulo
-  * Link: [Inscrição Direta](https://vemproitau.gupy.io/job/eyJqb2JJZCI6MTIyODI2MDksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
 * **Cargo:** Programa de Estágio Corporativo 2026
   * Local: São Paulo - São Paulo
   * Link: [Inscrição Direta](https://vemproitau.gupy.io/job/eyJqb2JJZCI6MTE1MTEzMTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal)
