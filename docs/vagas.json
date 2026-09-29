@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "26/09/2026 08:30:31",
-  "total_vagas": 12,
+  "ultima_atualizacao": "29/09/2026 09:43:10",
+  "total_vagas": 13,
   "empresas": {
     "Samsung": [
       {
@@ -22,6 +22,11 @@
         "titulo": "Estágio em Ciência de Dados",
         "local": "Parque dos Resedás, Campinas, Brazil",
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Cincia-de-Dados_R120599"
+      },
+      {
+        "titulo": "Estágio em Testes de Software",
+        "local": "Parque dos Resedás, Campinas, Brazil",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Testes-de-Software_R120979"
       },
       {
         "titulo": "Samsung’s Internship",
