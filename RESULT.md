@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 01/10/2026 10:00:43 (Horário Local)
+**Última Atualização:** 07/10/2026 10:07:50 (Horário Local)
 
-**Total de vagas encontradas:** 6
+**Total de vagas encontradas:** 7
 
 ---
 
@@ -20,6 +20,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Estágio em Testes de Software
   * Local: Parque dos Resedás, Campinas, Brazil
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Testes-de-Software_R120979)
+* **Cargo:** Estágio em Gestão de Projetos
+  * Local: Parque dos Resedás, Campinas, Brazil
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Gesto-de-Projetos_R121143)
 * **Cargo:** Samsung’s Internship
   * Local: Via Mike Bongiorno, Milano, Italy
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Via-Mike-Bongiorno-Milano-Italy/Samsung-s-Internship_R114528-1)
