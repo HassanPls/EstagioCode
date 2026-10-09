@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 07/10/2026 10:07:50 (Horário Local)
+**Última Atualização:** 09/10/2026 10:21:57 (Horário Local)
 
-**Total de vagas encontradas:** 7
+**Total de vagas encontradas:** 8
 
 ---
 
@@ -36,6 +36,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Programa de Estágio Santander - 2026 - Banco de Talentos
   * Local: Evergreen
   * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980)
+* **Cargo:** Estagiário Arquitetura Enterprise
+  * Local: SAO PAULO
+  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagirio-Arquitetura-Enterprise_Req1614284)
 
 ------------------------------
 

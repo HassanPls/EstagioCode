@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "07/10/2026 10:07:50",
-  "total_vagas": 7,
+  "ultima_atualizacao": "09/10/2026 10:21:57",
+  "total_vagas": 8,
   "empresas": {
     "Samsung": [
       {
@@ -39,6 +39,11 @@
         "titulo": "Programa de Estágio Santander - 2026 - Banco de Talentos",
         "local": "Evergreen",
         "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980"
+      },
+      {
+        "titulo": "Estagiário Arquitetura Enterprise",
+        "local": "SAO PAULO",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Estagirio-Arquitetura-Enterprise_Req1614284"
       }
     ],
     "Nubank": [],
