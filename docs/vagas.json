@@ -1,17 +1,17 @@
 {
-  "ultima_atualizacao": "13/10/2026 10:24:34",
+  "ultima_atualizacao": "16/10/2026 08:03:47",
   "total_vagas": 7,
   "empresas": {
     "Samsung": [
       {
+        "titulo": "Estágio em Legal & Compliance",
+        "local": "Parque dos Resedás, Campinas, Brazil",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Legal---Compliance_R121285"
+      },
+      {
         "titulo": "Estágio em Desenvolvimento de Software",
         "local": "Parque dos Resedás, Campinas, Brazil",
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Desenvolvimento-de-Software_R119117-1"
-      },
-      {
-        "titulo": "Estágio em Ciência de Dados",
-        "local": "Parque dos Resedás, Campinas, Brazil",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Cincia-de-Dados_R120599"
       },
       {
         "titulo": "Estágio em Testes de Software",

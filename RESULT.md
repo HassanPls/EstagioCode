@@ -4,19 +4,19 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 13/10/2026 10:24:34 (Horário Local)
+**Última Atualização:** 16/10/2026 08:03:47 (Horário Local)
 
 **Total de vagas encontradas:** 7
 
 ---
 
 ## SAMSUNG
+* **Cargo:** Estágio em Legal & Compliance
+  * Local: Parque dos Resedás, Campinas, Brazil
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Legal---Compliance_R121285)
 * **Cargo:** Estágio em Desenvolvimento de Software
   * Local: Parque dos Resedás, Campinas, Brazil
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Desenvolvimento-de-Software_R119117-1)
-* **Cargo:** Estágio em Ciência de Dados
-  * Local: Parque dos Resedás, Campinas, Brazil
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Cincia-de-Dados_R120599)
 * **Cargo:** Estágio em Testes de Software
   * Local: Parque dos Resedás, Campinas, Brazil
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Testes-de-Software_R120979)
