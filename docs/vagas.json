@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "18/10/2026 07:56:42",
-  "total_vagas": 7,
+  "ultima_atualizacao": "20/10/2026 08:24:21",
+  "total_vagas": 8,
   "empresas": {
     "Samsung": [
       {
@@ -41,7 +41,13 @@
         "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980"
       }
     ],
-    "Nubank": [],
+    "Nubank": [
+      {
+        "titulo": "Nu AI Core Summer PhD Research Internship",
+        "local": "Palo Alto",
+        "link": "https://jobs.ashbyhq.com/nubank/3835ec58-5e5a-4bd4-a076-4a8f89490011"
+      }
+    ],
     "Itaú": [],
     "Banco Sofisa": [],
     "Monks": [],

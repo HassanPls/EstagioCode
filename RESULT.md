@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 18/10/2026 07:56:42 (Horário Local)
+**Última Atualização:** 20/10/2026 08:24:21 (Horário Local)
 
-**Total de vagas encontradas:** 7
+**Total de vagas encontradas:** 8
 
 ---
 
@@ -40,7 +40,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 ------------------------------
 
 ## NUBANK
-*Nenhuma vaga compatível localizada nos filtros atuais.*
+* **Cargo:** Nu AI Core Summer PhD Research Internship
+  * Local: Palo Alto
+  * Link: [Inscrição Direta](https://jobs.ashbyhq.com/nubank/3835ec58-5e5a-4bd4-a076-4a8f89490011)
 
 ------------------------------
 
