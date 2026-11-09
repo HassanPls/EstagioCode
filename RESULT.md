@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 07/11/2026 09:53:37 (Horário Local)
+**Última Atualização:** 09/11/2026 11:16:49 (Horário Local)
 
-**Total de vagas encontradas:** 12
+**Total de vagas encontradas:** 18
 
 ---
 
@@ -26,21 +26,39 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Estágio em Ciência de Dados e Sistemas Baseados em Conhecimento
   * Local: Parque dos Resedás, Campinas, Brazil
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Cincia-de-Dados-e-Sistemas-Baseados-em-Conhecimento_R121673)
+* **Cargo:** Business Strategy & Intelligence Intern
+  * Local: 6625 Excellence Way, Plano, TX, USA
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Strategy---Intelligence-Intern_R121962)
 * **Cargo:** Customer Experience Strategy & Transformation Intern
   * Local: 6625 Excellence Way, Plano, TX, USA
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Customer-Experience-Strategy---Transformation-Intern_R121929)
 * **Cargo:** Business Intelligence & Data Analytics Intern
   * Local: 6625 Excellence Way, Plano, TX, USA
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Intelligence---Data-Analytics-Intern_R121949)
+* **Cargo:** eCom Fulfillment Final Mile Intern
+  * Local: 6625 Excellence Way, Plano, TX, USA
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/eCom-Fulfillment-Final-Mile-Intern_R121972)
+* **Cargo:** ePro Business & Data Analyst Intern
+  * Local: 6625 Excellence Way, Plano, TX, USA
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996)
 * **Cargo:** Samsung Care AI Data Analytic Intern
   * Local: 6625 Excellence Way, Plano, TX, USA
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1)
+* **Cargo:** Summer Intern - DA eCommerce (B2B & Parts Strategy)
+  * Local: 6625 Excellence Way, Plano, TX, USA
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Summer-Intern---DA-eCommerce--B2B---Parts-Strategy-_R121992)
 * **Cargo:** Samsung’s Internship
   * Local: Via Mike Bongiorno, Milano, Italy
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Via-Mike-Bongiorno-Milano-Italy/Samsung-s-Internship_R114528-1)
 * **Cargo:** 2027 Summer Internship
   * Local: 1530 FM 973 Taylor, TX, USA
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-Summer-Internship_R119158)
+* **Cargo:** Summer Intern - VD eCommerce (Direct Value Proposition & Partnerships)
+  * Local: 6625 Excellence Way, Plano, TX, USA
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Summer-Intern---VD-eCommerce--Direct-Value-Proposition---Partnerships-_R121994)
+* **Cargo:** Strategy Intern for National Retail and Strategic Accounts
+  * Local: 6625 Excellence Way, Plano, TX, USA
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Strategy-Intern-for-National-Retail-and-Strategic-Accounts_R122002)
 
 ------------------------------
 

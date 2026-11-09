@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "07/11/2026 09:53:37",
-  "total_vagas": 12,
+  "ultima_atualizacao": "09/11/2026 11:16:49",
+  "total_vagas": 18,
   "empresas": {
     "Samsung": [
       {
@@ -29,6 +29,11 @@
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Cincia-de-Dados-e-Sistemas-Baseados-em-Conhecimento_R121673"
       },
       {
+        "titulo": "Business Strategy & Intelligence Intern",
+        "local": "6625 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Strategy---Intelligence-Intern_R121962"
+      },
+      {
         "titulo": "Customer Experience Strategy & Transformation Intern",
         "local": "6625 Excellence Way, Plano, TX, USA",
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Customer-Experience-Strategy---Transformation-Intern_R121929"
@@ -39,9 +44,24 @@
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Intelligence---Data-Analytics-Intern_R121949"
       },
       {
+        "titulo": "eCom Fulfillment Final Mile Intern",
+        "local": "6625 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/eCom-Fulfillment-Final-Mile-Intern_R121972"
+      },
+      {
+        "titulo": "ePro Business & Data Analyst Intern",
+        "local": "6625 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996"
+      },
+      {
         "titulo": "Samsung Care AI Data Analytic Intern",
         "local": "6625 Excellence Way, Plano, TX, USA",
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1"
+      },
+      {
+        "titulo": "Summer Intern - DA eCommerce (B2B & Parts Strategy)",
+        "local": "6625 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Summer-Intern---DA-eCommerce--B2B---Parts-Strategy-_R121992"
       },
       {
         "titulo": "Samsung’s Internship",
@@ -52,6 +72,16 @@
         "titulo": "2027 Summer Internship",
         "local": "1530 FM 973 Taylor, TX, USA",
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-Summer-Internship_R119158"
+      },
+      {
+        "titulo": "Summer Intern - VD eCommerce (Direct Value Proposition & Partnerships)",
+        "local": "6625 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Summer-Intern---VD-eCommerce--Direct-Value-Proposition---Partnerships-_R121994"
+      },
+      {
+        "titulo": "Strategy Intern for National Retail and Strategic Accounts",
+        "local": "6625 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Strategy-Intern-for-National-Retail-and-Strategic-Accounts_R122002"
       }
     ],
     "Santander": [
