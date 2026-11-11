@@ -4,16 +4,22 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 09/11/2026 11:16:49 (Horário Local)
+**Última Atualização:** 11/11/2026 10:40:39 (Horário Local)
 
-**Total de vagas encontradas:** 18
+**Total de vagas encontradas:** 22
 
 ---
 
 ## SAMSUNG
+* **Cargo:** Estágio Administrativo - Compras
+  * Local: Parque dos Resedás, Campinas, Brazil
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-Administrativo---Compras_R121767)
 * **Cargo:** Estágio em Legal & Compliance
   * Local: Parque dos Resedás, Campinas, Brazil
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Legal---Compliance_R121285)
+* **Cargo:** Estágio em Segurança Avançada
+  * Local: Parque dos Resedás, Campinas, Brazil
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Segurana-Avanada_R122102)
 * **Cargo:** Estágio em Testes de Software
   * Local: Parque dos Resedás, Campinas, Brazil
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Testes-de-Software_R121651)
@@ -26,6 +32,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Estágio em Ciência de Dados e Sistemas Baseados em Conhecimento
   * Local: Parque dos Resedás, Campinas, Brazil
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Cincia-de-Dados-e-Sistemas-Baseados-em-Conhecimento_R121673)
+* **Cargo:** Accounting Intern
+  * Local: 200 Connell Drive, Berkeley Heights, NJ, USA
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/200-Connell-Drive-Berkeley-Heights-NJ-USA/Accounting-Intern_R121945)
 * **Cargo:** Business Strategy & Intelligence Intern
   * Local: 6625 Excellence Way, Plano, TX, USA
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Strategy---Intelligence-Intern_R121962)
@@ -38,12 +47,15 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** eCom Fulfillment Final Mile Intern
   * Local: 6625 Excellence Way, Plano, TX, USA
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/eCom-Fulfillment-Final-Mile-Intern_R121972)
-* **Cargo:** ePro Business & Data Analyst Intern
-  * Local: 6625 Excellence Way, Plano, TX, USA
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996)
 * **Cargo:** Samsung Care AI Data Analytic Intern
   * Local: 6625 Excellence Way, Plano, TX, USA
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1)
+* **Cargo:** ePro AI  Business & Data Analyst Intern
+  * Local: 6625 Excellence Way, Plano, TX, USA
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996)
+* **Cargo:** 5G Network Intelligence and Automation Intern
+  * Local: 6555 Excellence Way, Plano, TX, USA
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-Network-Intelligence-and-Automation-Intern_R121959)
 * **Cargo:** Summer Intern - DA eCommerce (B2B & Parts Strategy)
   * Local: 6625 Excellence Way, Plano, TX, USA
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Summer-Intern---DA-eCommerce--B2B---Parts-Strategy-_R121992)
