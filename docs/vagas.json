@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "12/11/2026 10:52:37",
-  "total_vagas": 22,
+  "ultima_atualizacao": "13/11/2026 10:48:31",
+  "total_vagas": 23,
   "empresas": {
     "Samsung": [
       {
@@ -22,6 +22,11 @@
         "titulo": "Estágio em Testes de Software",
         "local": "Parque dos Resedás, Campinas, Brazil",
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Testes-de-Software_R121651"
+      },
+      {
+        "titulo": "Estágio em Desenvolvimento de Software",
+        "local": "Parque dos Resedás, Campinas, Brazil",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Desenvolvimento-de-Software_R122152"
       },
       {
         "titulo": "Estágio em Suporte & Análise de Dados",
@@ -79,14 +84,14 @@
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-Network-Intelligence-and-Automation-Intern_R121959"
       },
       {
-        "titulo": "Summer Intern - DA eCommerce (B2B & Parts Strategy)",
-        "local": "6625 Excellence Way, Plano, TX, USA",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Summer-Intern---DA-eCommerce--B2B---Parts-Strategy-_R121992"
-      },
-      {
         "titulo": "Samsung’s Internship",
         "local": "Via Mike Bongiorno, Milano, Italy",
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Via-Mike-Bongiorno-Milano-Italy/Samsung-s-Internship_R114528-1"
+      },
+      {
+        "titulo": "Summer Intern - DA eCommerce (B2B & Parts Strategy)",
+        "local": "6625 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Summer-Intern---DA-eCommerce--B2B---Parts-Strategy-_R121992"
       },
       {
         "titulo": "2027 Summer Internship",
