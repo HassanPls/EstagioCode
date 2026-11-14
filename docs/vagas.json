@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "13/11/2026 10:48:31",
-  "total_vagas": 23,
+  "ultima_atualizacao": "14/11/2026 10:03:45",
+  "total_vagas": 25,
   "empresas": {
     "Samsung": [
       {
@@ -27,6 +27,11 @@
         "titulo": "Estágio em Desenvolvimento de Software",
         "local": "Parque dos Resedás, Campinas, Brazil",
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Desenvolvimento-de-Software_R122152"
+      },
+      {
+        "titulo": "Estágio em Engenharia de Dados",
+        "local": "Parque dos Resedás, Campinas, Brazil",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Engenharia-de-Dados_R122106"
       },
       {
         "titulo": "Estágio em Suporte & Análise de Dados",
@@ -84,14 +89,14 @@
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-Network-Intelligence-and-Automation-Intern_R121959"
       },
       {
-        "titulo": "Samsung’s Internship",
-        "local": "Via Mike Bongiorno, Milano, Italy",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Via-Mike-Bongiorno-Milano-Italy/Samsung-s-Internship_R114528-1"
-      },
-      {
         "titulo": "Summer Intern - DA eCommerce (B2B & Parts Strategy)",
         "local": "6625 Excellence Way, Plano, TX, USA",
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Summer-Intern---DA-eCommerce--B2B---Parts-Strategy-_R121992"
+      },
+      {
+        "titulo": "Samsung’s Internship",
+        "local": "Via Mike Bongiorno, Milano, Italy",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Via-Mike-Bongiorno-Milano-Italy/Samsung-s-Internship_R114528-1"
       },
       {
         "titulo": "2027 Summer Internship",
@@ -107,6 +112,11 @@
         "titulo": "Strategy Intern for National Retail and Strategic Accounts",
         "local": "6625 Excellence Way, Plano, TX, USA",
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Strategy-Intern-for-National-Retail-and-Strategic-Accounts_R122002"
+      },
+      {
+        "titulo": "2027 SARC/ACL R&D Internship Program – Multiple Engineering Teams",
+        "local": "2 Locais",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/XMLNAME-2027-SARC-ACL-R-D-Internship-Program---Multiple-Engineering-Teams_R122243"
       }
     ],
     "Santander": [

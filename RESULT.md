@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 13/11/2026 10:48:31 (Horário Local)
+**Última Atualização:** 14/11/2026 10:03:45 (Horário Local)
 
-**Total de vagas encontradas:** 23
+**Total de vagas encontradas:** 25
 
 ---
 
@@ -26,6 +26,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Estágio em Desenvolvimento de Software
   * Local: Parque dos Resedás, Campinas, Brazil
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Desenvolvimento-de-Software_R122152)
+* **Cargo:** Estágio em Engenharia de Dados
+  * Local: Parque dos Resedás, Campinas, Brazil
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Engenharia-de-Dados_R122106)
 * **Cargo:** Estágio em Suporte & Análise de Dados
   * Local: Parque dos Resedás, Campinas, Brazil
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Suporte---Anlise-de-Dados_R121304)
@@ -59,12 +62,12 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** 5G Network Intelligence and Automation Intern
   * Local: 6555 Excellence Way, Plano, TX, USA
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-Network-Intelligence-and-Automation-Intern_R121959)
-* **Cargo:** Samsung’s Internship
-  * Local: Via Mike Bongiorno, Milano, Italy
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Via-Mike-Bongiorno-Milano-Italy/Samsung-s-Internship_R114528-1)
 * **Cargo:** Summer Intern - DA eCommerce (B2B & Parts Strategy)
   * Local: 6625 Excellence Way, Plano, TX, USA
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Summer-Intern---DA-eCommerce--B2B---Parts-Strategy-_R121992)
+* **Cargo:** Samsung’s Internship
+  * Local: Via Mike Bongiorno, Milano, Italy
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Via-Mike-Bongiorno-Milano-Italy/Samsung-s-Internship_R114528-1)
 * **Cargo:** 2027 Summer Internship
   * Local: 1530 FM 973 Taylor, TX, USA
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-Summer-Internship_R119158)
@@ -74,6 +77,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Strategy Intern for National Retail and Strategic Accounts
   * Local: 6625 Excellence Way, Plano, TX, USA
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Strategy-Intern-for-National-Retail-and-Strategic-Accounts_R122002)
+* **Cargo:** 2027 SARC/ACL R&D Internship Program – Multiple Engineering Teams
+  * Local: 2 Locais
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/XMLNAME-2027-SARC-ACL-R-D-Internship-Program---Multiple-Engineering-Teams_R122243)
 
 ------------------------------
 
