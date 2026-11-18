@@ -1,58 +1,8 @@
 {
-  "ultima_atualizacao": "17/11/2026 11:40:43",
-  "total_vagas": 28,
+  "ultima_atualizacao": "18/11/2026 11:27:59",
+  "total_vagas": 17,
   "empresas": {
     "Samsung": [
-      {
-        "titulo": "Estágio Administrativo - Compras",
-        "local": "Parque dos Resedás, Campinas, Brazil",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-Administrativo---Compras_R121767"
-      },
-      {
-        "titulo": "Estágio em Segurança Avançada",
-        "local": "Parque dos Resedás, Campinas, Brazil",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Segurana-Avanada_R122102"
-      },
-      {
-        "titulo": "Estágio em Propriedade Intelectual",
-        "local": "Parque dos Resedás, Campinas, Brazil",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Propriedade-Intelectual_R121910"
-      },
-      {
-        "titulo": "Estágio em Testes de Software",
-        "local": "Parque dos Resedás, Campinas, Brazil",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Testes-de-Software_R121651"
-      },
-      {
-        "titulo": "Estágio em Desenvolvimento de Software",
-        "local": "Parque dos Resedás, Campinas, Brazil",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Desenvolvimento-de-Software_R122152"
-      },
-      {
-        "titulo": "Estágio em Engenharia de Dados",
-        "local": "Parque dos Resedás, Campinas, Brazil",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Engenharia-de-Dados_R122106"
-      },
-      {
-        "titulo": "Estágio em Engenharia de Software",
-        "local": "Parque dos Resedás, Campinas, Brazil",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Engenharia-de-Software_R122271"
-      },
-      {
-        "titulo": "Estágio em Suporte & Análise de Dados",
-        "local": "Parque dos Resedás, Campinas, Brazil",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Suporte---Anlise-de-Dados_R121304"
-      },
-      {
-        "titulo": "Estágio em EHS (Saúde, Segurança e Meio Ambiente)",
-        "local": "Parque dos Resedás, Campinas, Brazil",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-EHS--Sade--Segurana-e-Meio-Ambiente-_R121353"
-      },
-      {
-        "titulo": "Estágio em Ciência de Dados e Sistemas Baseados em Conhecimento",
-        "local": "Parque dos Resedás, Campinas, Brazil",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Cincia-de-Dados-e-Sistemas-Baseados-em-Conhecimento_R121673"
-      },
       {
         "titulo": "Accounting Intern",
         "local": "200 Connell Drive, Berkeley Heights, NJ, USA",
@@ -134,13 +84,7 @@
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Technical-Product-Management-Intern---D2C-Shopping-Experiences--Mobile---Consumer-Electronics-_R122020"
       }
     ],
-    "Santander": [
-      {
-        "titulo": "Programa de Estágio Santander - 2026 - Banco de Talentos",
-        "local": "Evergreen",
-        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980"
-      }
-    ],
+    "Santander": [],
     "Nubank": [
       {
         "titulo": "Nu AI Core Summer PhD Research Internship",

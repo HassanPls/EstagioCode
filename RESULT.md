@@ -4,43 +4,13 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 17/11/2026 11:40:43 (Horário Local)
+**Última Atualização:** 18/11/2026 11:27:59 (Horário Local)
 
-**Total de vagas encontradas:** 28
+**Total de vagas encontradas:** 17
 
 ---
 
 ## SAMSUNG
-* **Cargo:** Estágio Administrativo - Compras
-  * Local: Parque dos Resedás, Campinas, Brazil
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-Administrativo---Compras_R121767)
-* **Cargo:** Estágio em Segurança Avançada
-  * Local: Parque dos Resedás, Campinas, Brazil
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Segurana-Avanada_R122102)
-* **Cargo:** Estágio em Propriedade Intelectual
-  * Local: Parque dos Resedás, Campinas, Brazil
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Propriedade-Intelectual_R121910)
-* **Cargo:** Estágio em Testes de Software
-  * Local: Parque dos Resedás, Campinas, Brazil
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Testes-de-Software_R121651)
-* **Cargo:** Estágio em Desenvolvimento de Software
-  * Local: Parque dos Resedás, Campinas, Brazil
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Desenvolvimento-de-Software_R122152)
-* **Cargo:** Estágio em Engenharia de Dados
-  * Local: Parque dos Resedás, Campinas, Brazil
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Engenharia-de-Dados_R122106)
-* **Cargo:** Estágio em Engenharia de Software
-  * Local: Parque dos Resedás, Campinas, Brazil
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Engenharia-de-Software_R122271)
-* **Cargo:** Estágio em Suporte & Análise de Dados
-  * Local: Parque dos Resedás, Campinas, Brazil
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Suporte---Anlise-de-Dados_R121304)
-* **Cargo:** Estágio em EHS (Saúde, Segurança e Meio Ambiente)
-  * Local: Parque dos Resedás, Campinas, Brazil
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-EHS--Sade--Segurana-e-Meio-Ambiente-_R121353)
-* **Cargo:** Estágio em Ciência de Dados e Sistemas Baseados em Conhecimento
-  * Local: Parque dos Resedás, Campinas, Brazil
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Cincia-de-Dados-e-Sistemas-Baseados-em-Conhecimento_R121673)
 * **Cargo:** Accounting Intern
   * Local: 200 Connell Drive, Berkeley Heights, NJ, USA
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/200-Connell-Drive-Berkeley-Heights-NJ-USA/Accounting-Intern_R121945)
@@ -93,9 +63,7 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 ------------------------------
 
 ## SANTANDER
-* **Cargo:** Programa de Estágio Santander - 2026 - Banco de Talentos
-  * Local: Evergreen
-  * Link: [Inscrição Direta](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980)
+*Nenhuma vaga compatível localizada nos filtros atuais.*
 
 ------------------------------
 
