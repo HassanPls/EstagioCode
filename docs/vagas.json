@@ -1,9 +1,15 @@
 {
-  "ultima_atualizacao": "21/11/2026 10:52:05",
-  "total_vagas": 1,
+  "ultima_atualizacao": "22/11/2026 11:01:20",
+  "total_vagas": 2,
   "empresas": {
     "Samsung": [],
-    "Santander": [],
+    "Santander": [
+      {
+        "titulo": "Programa de Estágio Santander - 2026 - Banco de Talentos",
+        "local": "Evergreen",
+        "link": "https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/Evergreen/Programa-de-Estgio-Santander---2026---Banco-de-Talentos_Req1555980"
+      }
+    ],
     "Nubank": [
       {
         "titulo": "Nu AI Core Summer PhD Research Internship",
