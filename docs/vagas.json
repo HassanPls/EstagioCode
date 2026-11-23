@@ -1,8 +1,139 @@
 {
-  "ultima_atualizacao": "22/11/2026 11:01:20",
-  "total_vagas": 2,
+  "ultima_atualizacao": "23/11/2026 12:10:33",
+  "total_vagas": 28,
   "empresas": {
-    "Samsung": [],
+    "Samsung": [
+      {
+        "titulo": "Estágio Administrativo - Compras",
+        "local": "Parque dos Resedás, Campinas, Brazil",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-Administrativo---Compras_R121767"
+      },
+      {
+        "titulo": "Estágio em Segurança Avançada",
+        "local": "Parque dos Resedás, Campinas, Brazil",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Segurana-Avanada_R122102"
+      },
+      {
+        "titulo": "Estágio em Propriedade Intelectual",
+        "local": "Parque dos Resedás, Campinas, Brazil",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Propriedade-Intelectual_R121910"
+      },
+      {
+        "titulo": "Estágio em Testes de Software",
+        "local": "Parque dos Resedás, Campinas, Brazil",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Testes-de-Software_R121651"
+      },
+      {
+        "titulo": "Estágio em Desenvolvimento de Software",
+        "local": "Parque dos Resedás, Campinas, Brazil",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Desenvolvimento-de-Software_R122152"
+      },
+      {
+        "titulo": "Estágio em Engenharia de Dados",
+        "local": "Parque dos Resedás, Campinas, Brazil",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Engenharia-de-Dados_R122106"
+      },
+      {
+        "titulo": "Estágio em Engenharia de Software",
+        "local": "Parque dos Resedás, Campinas, Brazil",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Engenharia-de-Software_R122271"
+      },
+      {
+        "titulo": "Estágio em Suporte & Análise de Dados",
+        "local": "Parque dos Resedás, Campinas, Brazil",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Suporte---Anlise-de-Dados_R121304"
+      },
+      {
+        "titulo": "Estágio em EHS (Saúde, Segurança e Meio Ambiente)",
+        "local": "Parque dos Resedás, Campinas, Brazil",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-EHS--Sade--Segurana-e-Meio-Ambiente-_R121353"
+      },
+      {
+        "titulo": "Estágio em Ciência de Dados e Sistemas Baseados em Conhecimento",
+        "local": "Parque dos Resedás, Campinas, Brazil",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/Parque-dos-Reseds-Campinas-Brazil/Estgio-em-Cincia-de-Dados-e-Sistemas-Baseados-em-Conhecimento_R121673"
+      },
+      {
+        "titulo": "Accounting Intern",
+        "local": "200 Connell Drive, Berkeley Heights, NJ, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/200-Connell-Drive-Berkeley-Heights-NJ-USA/Accounting-Intern_R121945"
+      },
+      {
+        "titulo": "Business Strategy & Intelligence Intern",
+        "local": "6625 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Strategy---Intelligence-Intern_R121962"
+      },
+      {
+        "titulo": "RAN System Performance Intern",
+        "local": "6555 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/RAN-System-Performance-Intern_R122138"
+      },
+      {
+        "titulo": "Customer Experience Strategy & Transformation Intern",
+        "local": "6625 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Customer-Experience-Strategy---Transformation-Intern_R121929"
+      },
+      {
+        "titulo": "Business Intelligence & Data Analytics Intern",
+        "local": "6625 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Intelligence---Data-Analytics-Intern_R121949"
+      },
+      {
+        "titulo": "eCom Fulfillment Final Mile Intern",
+        "local": "6625 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/eCom-Fulfillment-Final-Mile-Intern_R121972"
+      },
+      {
+        "titulo": "Business Operations & Data Analytics Intern",
+        "local": "6555 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Business-Operations---Data-Analytics-Intern_R122135"
+      },
+      {
+        "titulo": "Samsung Care AI Data Analytic Intern",
+        "local": "6625 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1"
+      },
+      {
+        "titulo": "ePro AI  Business & Data Analyst Intern",
+        "local": "6625 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996"
+      },
+      {
+        "titulo": "5G Network Intelligence and Automation Intern",
+        "local": "6555 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-Network-Intelligence-and-Automation-Intern_R121959"
+      },
+      {
+        "titulo": "Product Management Tools and Automation Intern",
+        "local": "6555 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Product-Management-Tools-and-Automation-Intern_R122022"
+      },
+      {
+        "titulo": "2027 Summer Internship",
+        "local": "1530 FM 973 Taylor, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-Summer-Internship_R119158"
+      },
+      {
+        "titulo": "Summer Intern - DA eCommerce (B2B & Parts Strategy)",
+        "local": "6625 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Summer-Intern---DA-eCommerce--B2B---Parts-Strategy-_R121992"
+      },
+      {
+        "titulo": "Summer Intern - VD eCommerce (Direct Value Proposition & Partnerships)",
+        "local": "6625 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Summer-Intern---VD-eCommerce--Direct-Value-Proposition---Partnerships-_R121994"
+      },
+      {
+        "titulo": "Strategy Intern for National Retail and Strategic Accounts",
+        "local": "6625 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Strategy-Intern-for-National-Retail-and-Strategic-Accounts_R122002"
+      },
+      {
+        "titulo": "Technical Product Management Intern ( D2C Shopping Experiences (Mobile & Consumer Electronics)",
+        "local": "645 Clyde Avenue, Mountain View, CA, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Technical-Product-Management-Intern---D2C-Shopping-Experiences--Mobile---Consumer-Electronics-_R122020"
+      }
+    ],
     "Santander": [
       {
         "titulo": "Programa de Estágio Santander - 2026 - Banco de Talentos",
