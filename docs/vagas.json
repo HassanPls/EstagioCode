@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "23/11/2026 12:10:33",
-  "total_vagas": 28,
+  "ultima_atualizacao": "24/11/2026 13:30:41",
+  "total_vagas": 31,
   "empresas": {
     "Samsung": [
       {
@@ -59,6 +59,11 @@
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/200-Connell-Drive-Berkeley-Heights-NJ-USA/Accounting-Intern_R121945"
       },
       {
+        "titulo": "Data Engineer Intern",
+        "local": "6555 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Data-Engineer-Intern_R122374"
+      },
+      {
         "titulo": "Business Strategy & Intelligence Intern",
         "local": "6625 Excellence Way, Plano, TX, USA",
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Strategy---Intelligence-Intern_R121962"
@@ -67,6 +72,16 @@
         "titulo": "RAN System Performance Intern",
         "local": "6555 Excellence Way, Plano, TX, USA",
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/RAN-System-Performance-Intern_R122138"
+      },
+      {
+        "titulo": "Software Development Engineer - Intern",
+        "local": "645 Clyde Avenue, Mountain View, CA, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Software-Development-Engineer---Intern_R122018"
+      },
+      {
+        "titulo": "5G vRAN Automation Intern",
+        "local": "6555 Excellence Way, Plano, TX, USA",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-vRAN-Automation-Intern_R122025"
       },
       {
         "titulo": "Customer Experience Strategy & Transformation Intern",
@@ -129,9 +144,9 @@
         "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Strategy-Intern-for-National-Retail-and-Strategic-Accounts_R122002"
       },
       {
-        "titulo": "Technical Product Management Intern ( D2C Shopping Experiences (Mobile & Consumer Electronics)",
-        "local": "645 Clyde Avenue, Mountain View, CA, USA",
-        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Technical-Product-Management-Intern---D2C-Shopping-Experiences--Mobile---Consumer-Electronics-_R122020"
+        "titulo": "2027 SARC/ACL R&D Internship Program – Multiple Engineering Teams",
+        "local": "2 Locais",
+        "link": "https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/XMLNAME-2027-SARC-ACL-R-D-Internship-Program---Multiple-Engineering-Teams_R122278-1"
       }
     ],
     "Santander": [

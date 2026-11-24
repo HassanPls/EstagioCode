@@ -4,9 +4,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 
 ---
 
-**Última Atualização:** 23/11/2026 12:10:33 (Horário Local)
+**Última Atualização:** 24/11/2026 13:30:41 (Horário Local)
 
-**Total de vagas encontradas:** 28
+**Total de vagas encontradas:** 31
 
 ---
 
@@ -44,12 +44,21 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Accounting Intern
   * Local: 200 Connell Drive, Berkeley Heights, NJ, USA
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/200-Connell-Drive-Berkeley-Heights-NJ-USA/Accounting-Intern_R121945)
+* **Cargo:** Data Engineer Intern
+  * Local: 6555 Excellence Way, Plano, TX, USA
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Data-Engineer-Intern_R122374)
 * **Cargo:** Business Strategy & Intelligence Intern
   * Local: 6625 Excellence Way, Plano, TX, USA
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Strategy---Intelligence-Intern_R121962)
 * **Cargo:** RAN System Performance Intern
   * Local: 6555 Excellence Way, Plano, TX, USA
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/RAN-System-Performance-Intern_R122138)
+* **Cargo:** Software Development Engineer - Intern
+  * Local: 645 Clyde Avenue, Mountain View, CA, USA
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Software-Development-Engineer---Intern_R122018)
+* **Cargo:** 5G vRAN Automation Intern
+  * Local: 6555 Excellence Way, Plano, TX, USA
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-vRAN-Automation-Intern_R122025)
 * **Cargo:** Customer Experience Strategy & Transformation Intern
   * Local: 6625 Excellence Way, Plano, TX, USA
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Customer-Experience-Strategy---Transformation-Intern_R121929)
@@ -86,9 +95,9 @@ Este documento é gerado e atualizado de forma automatizada pelo pipeline de int
 * **Cargo:** Strategy Intern for National Retail and Strategic Accounts
   * Local: 6625 Excellence Way, Plano, TX, USA
   * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Strategy-Intern-for-National-Retail-and-Strategic-Accounts_R122002)
-* **Cargo:** Technical Product Management Intern ( D2C Shopping Experiences (Mobile & Consumer Electronics)
-  * Local: 645 Clyde Avenue, Mountain View, CA, USA
-  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Technical-Product-Management-Intern---D2C-Shopping-Experiences--Mobile---Consumer-Electronics-_R122020)
+* **Cargo:** 2027 SARC/ACL R&D Internship Program – Multiple Engineering Teams
+  * Local: 2 Locais
+  * Link: [Inscrição Direta](https://sec.wd3.myworkdayjobs.com/pt-BR/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/XMLNAME-2027-SARC-ACL-R-D-Internship-Program---Multiple-Engineering-Teams_R122278-1)
 
 ------------------------------
 
